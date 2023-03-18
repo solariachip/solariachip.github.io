@@ -11,7 +11,7 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 <p style="text-align: center;">✵✵✵✵✵✵✵✵</p>
 
 ## *About Sophia*
-<img align='left' src='/images/IMG_809.png' width="40%" height="30%" class="padding=15px">
+<img align='left' src='/images/IMG_809.png' width="40%" height="30%" hspace="20" vspace="20">
 
 **Sophia Medallon** tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset. 
 <br/><br/>
@@ -29,4 +29,4 @@ My name is **Carli Smith**, a graduate student fueled by caffeine and the pursui
 S & C met during their undergraduate careers on the beautiful coast of Santa Cruz, California, where they were in the same research group studying astrophysical transients. During lockdown, they spent sunny days getting burritos on the beach and discussed flux and chaos. Their research taught them that life is truly fleeting and must be enjoyed to the utmost capacity. Carli now studies fusion at Penn State and Sophia supports the Hubble Space Telescope in Baltimore, MD. While the two embark on another chapter in unfamiliar lands, they are presented with new challenges where they develop unique perspectives and encourage each other to be better every day. This project brings them an incredible amount of joy and a chance to elevate themselves and others reading the blog. 
 
 ---
-<p style="text-align: center; font size=10px"> <sup><sub> This blog is <a href="https://github.com/solariachip/solariachip.github.io">open source</a>! Sophia has modified the <a href="http://www.jekyllnow.com">Jekyll-Now</a> template and is still learning. If you spot errors or would like to contribute, generate a <a href="https://github.com/solariachip/solariachip.github.io/pulls">PR here!</a> </sub></sup></p>
+<p style="text-align: center;> <font size="-1"> This blog is <a href="https://github.com/solariachip/solariachip.github.io">open source</a>! Sophia has modified the <a href="http://www.jekyllnow.com">Jekyll-Now</a> template and is still learning. If you spot errors or would like to contribute, generate a <a href="https://github.com/solariachip/solariachip.github.io/pulls">PR here!</a></p></font>
