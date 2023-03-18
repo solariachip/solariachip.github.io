@@ -13,7 +13,7 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 ## *About Sophia*
 <img align='left' src='/images/Sophia_Solaria.png'>
 
-**Sophia Medallon** tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset.
+  **Sophia Medallon** tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset.
 
 Favorite genres: Psychology & horror\
 <br/><br/>
