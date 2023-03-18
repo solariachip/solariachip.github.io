@@ -11,13 +11,11 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 <p style="text-align: center;">✵✵✵✵✵✵✵✵</p>
 
 ## *About Sophia*
-<img align='left' src='/images/IMG_809.png' width="40%" height="30%" hspace="30" vspace="10">
+<img align='left' src='/images/Sophia_Solaria.png'>
 
 **Sophia Medallon** tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset.
 
 Favorite genres: Psychology & horror\
-Favorite activity: Eating soft-serve\
-Current books: *Meditations* by Marcus Aurelius, *The Botany of Desire* by Michael Pollan, *Neuromancer* by William Gibson\
 Topics of interest: Science, arts, philosophy, fitness, sustainability, fashion
 <br/><br/>
 
