@@ -19,8 +19,3 @@ My name is **Carli Smith**, a graduate student fueled by caffeine and the pursui
 ---
 #### Roots
 S & C met during their undergraduate careers on the beautiful coast of Santa Cruz, California, where they were in the same research group studying astrophysical transients. During lockdown, they spent sunny days getting burritos on the beach and trying to understand the challenges ahead in this pivotal moment in their lives. Their research taught them that life is truly fleeting and must be enjoyed to the fullest. Carli now studies fusion at Penn State and Sophia supports the Hubble Space Telescope in Baltimore, MD. While the two embark on another chapter in unfamiliar lands they are presented with new challenges, they develop unique perspectives and encourage each other to be better every day. This project brings them an incredible amount of joy and a chance to elevate themselves and others reading the blog.
-
-### Contact us
-[solariachip@protonmail.com](mailto:solariachip@protonmail.com)
-
-### Support us
