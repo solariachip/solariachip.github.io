@@ -2,6 +2,12 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    
+    {%- if page.image -%}
+    <div class="featuredImage">
+        <img src="{{ S C-7.png | append: page.image }}" alt="" />
+      </div>
+  {%- endif -%}
 
     {% include meta.html %}
 
