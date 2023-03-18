@@ -12,13 +12,14 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 
 ## *About Sophia*
 <img align='left' src='/images/Sophia_Solaria.png' vspace='10'>
+<br/><br/>
 
  **Sophia Medallon** tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset.
 <br/><br/>
 <br/><br/>
 
 ## *About Carli*
-<img align='right' src='/images/Carli_Chip.png' height='250' hspace='50'>
+<img align='right' src='/images/Carli_Chip.png' height='250' hspace='50' vspace='10'>
 
 My name is **Carli Smith**, a graduate student fueled by caffeine and the pursuit of adventure. We all know the internet can be a very negative place sometimes -- my personal mission for this blog is to counteract that by offering people a space to learn, laugh, be introspective, open their minds, and maybe even relate in some way. My partner-in-crime Sophia and I are absolutely stoked to post daily to share our experiences, passions, offer different perspectives, and most importantly have fun doing it! We hope you enjoy.
 
