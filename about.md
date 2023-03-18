@@ -18,7 +18,11 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 <br/><br/>
 
 ## *About Carli*
+<img align='right' src='/images/Carli_Chip.png' height='300' hspace='50'>
+
 My name is **Carli Smith**, a graduate student fueled by caffeine and the pursuit of adventure. We all know the internet can be a very negative place sometimes -- my personal mission for this blog is to counteract that by offering people a space to learn, laugh, be introspective, open their minds, and maybe even relate in some way. My partner-in-crime Sophia and I are absolutely stoked to post daily to share our experiences, passions, offer different perspectives, and most importantly have fun doing it! We hope you enjoy.
+
+<br/><br/>
 
 ---
 ### Roots
