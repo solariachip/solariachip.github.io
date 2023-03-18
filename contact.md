@@ -4,8 +4,8 @@ title: Contact us
 permalink: /contact/
 ---
 
-# Contact us
+# Mail
 [solariachip@protonmail.com](mailto:solariachip@protonmail.com)
 
-# Support us
+## Support us
 *Coming soon*
