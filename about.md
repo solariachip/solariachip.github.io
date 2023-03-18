@@ -16,7 +16,6 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 **Sophia Medallon** tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset.
 
 Favorite genres: Psychology & horror\
-Topics of interest: Science, arts, philosophy, fitness, sustainability, fashion
 <br/><br/>
 
 ## *About Carli*
