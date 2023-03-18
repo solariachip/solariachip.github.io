@@ -8,4 +8,4 @@ permalink: /contact/
 [solariachip@protonmail.com](mailto:solariachip@protonmail.com)
 
 ## Support us
-*Coming soon*
+[Buy us a coffee!](https://www.buymeacoffee.com/solariachip)
