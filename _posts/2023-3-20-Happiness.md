@@ -52,8 +52,8 @@ Here are some of the things that invoke happiness for me, when all else seems to
 * reading exceptional books
 * really good pizza
 * befriending random cats and/or dogs
-* brisk walks
 * charity or doing a good deed
-* lifes intrusive/inherent beauties, like witnessing fractals
+* nature's intrusive/inherent beauties, like witnessing fractals
+* & this one should be obvious but anything releasing endorphins
 
 And to the first day of Spring! We welcome you to grow with us.
