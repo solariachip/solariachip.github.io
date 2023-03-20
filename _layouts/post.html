@@ -12,6 +12,7 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-  
-  {% include github-comments.html %}
+  <div class="wrapper">
+        {% include github-comments.html %}
+      </div>
 </article>
