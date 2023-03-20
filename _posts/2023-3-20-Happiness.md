@@ -38,9 +38,9 @@ I often returned to the question of the nature of human suffering.
 I exchanged some of my well-loved books with an acquantaince who introduced me to Zen Buddhist master Thich Nhat Hanh, who beautifully delivers the message of mindfulness and inner peace. In *Peace is Every Step*, Nhat Hanh reflects:
 > “Suffering is not enough. Life is both dreadful and wonderful... How can I smile when I am filled with so much sorrow? It is natural--you need to smile to your sorrow because you are more than your sorrow.”
 
-And life will also go on whether you are happy or not. You can control this emotion to some degree.
+And life will also go on whether you are happy or not. For a good reason, meditation practices are amassing more followers in fast-paced Western culture. It takes daily reflection to take yourself outside of your sorrow, and seek life's joys as a celebration of life.
 
-Here are some of the things that invoke happiness, when all else seems to fail (in no particular order):
+Here are some of the things that invoke happiness for me, when all else seems to fail (in no particular order):
 * seeing the ocean
 * a corny but good joke
 * music
@@ -55,3 +55,5 @@ Here are some of the things that invoke happiness, when all else seems to fail (
 * brisk walks
 * charity or doing a good deed
 * lifes intrusive/inherent beauties, like witnessing fractals
+
+And to the first day of Spring! We welcome you to grow with us.
