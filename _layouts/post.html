@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <article class="post">
@@ -13,5 +14,6 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
   
+  {% if page.comments %} Discussion {% endif %}
   {% include disqus.html %}
 </article>
