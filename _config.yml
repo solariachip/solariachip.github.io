@@ -15,6 +15,9 @@ avatar: https://raw.githubusercontent.com/solariachip/solariachip.github.io/mast
 # Flags below are optional
 #
 
+# Set this to a github repository to be used to host comments.
+github_comments_repository:  solariachip/sc-comments
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
