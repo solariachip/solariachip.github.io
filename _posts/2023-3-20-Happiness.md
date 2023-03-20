@@ -23,7 +23,7 @@ I had to start over in finding my happiness. In California, where I had lived al
 During the first months in my new surroundings, I was homesick constantly and falling into depressive habits frequently. I was failing to establish meaningful relationships and found it difficult to make any sort of lasting connection, which had never been an issue as a true ambivert. It also seemed to me that practically every social gathering involved alcohol, and before long I developed a drinking problem and an inflamed liver. For the first time, the boundaries between anxiety and depression were sharply distinct, as both were now part of my daily entourage. I soon grew weary and frustrated that I kept choosing to propagate my days in self contempt and neglect. This was evident in my hair. My silky hair that had never needed brushing was starting to form knots from spending too many days in bed. I took a pair of scissors and cut it to a bob, which also meant that I had to look in a mirror. A literal self-reflection, I could see my soul ached for the wildflowers of curiosity and passion to bloom again.
 
 In *The Conquest for Happiness*, mathematician Bertrand Russell writes:
-> The world is vast and our own powers are limited. If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give. And to demand too much is the surest way of getting even less than is possible. The man who can forget his worries by means of a genuine interest in, say, the Council of Trent, or the life history of stars, will find that, when he returns from his excursion into the impersonal world, he has acquired a poise and calm which enable him to deal with his worries in the best way, and he will in the meantime have experienced a genuine even if temporary happiness.
+> "The world is vast and our own powers are limited. If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give. And to demand too much is the surest way of getting even less than is possible. The man who can forget his worries by means of a genuine interest in, say, the Council of Trent, or the life history of stars, will find that, when he returns from his excursion into the impersonal world, he has acquired a poise and calm which enable him to deal with his worries in the best way, and he will in the meantime have experienced a genuine even if temporary happiness."
 
 John Muir 
 
@@ -35,4 +35,7 @@ Here are some of the things that invoke happiness, when all else seems to fail (
 * music
 * followed by dancing
 * flowers
-* 
+* labors of love, like a home-cooked meal
+* a hot shower after bracing the cold
+* learning a mindblowing fact
+* reading exceptional books
