@@ -20,7 +20,7 @@ On the bright side, one of the benefits of living with chronic major depression 
 In *Commentary to [The Secret of the Golden Flower](https://archive.org/details/in.ernet.dli.2015.175702/page/n17/mode/2up)*, psychoanalyst Carl Jung observes that 
 > “the greatest and most important problems of life are all in a certain sense insoluble. They can never be solved, but only outgrown... Some higher or wider interest arose on the person’s horizon, and through this widening of view, the insoluble problem lost its urgency. It was not solved logically in its own terms, but faded out when confronted with a new and stronger life-tendency."
 
-I "outgrew" my first career in Production and Engineering where I spent 8 dreadful hours feeling like I was going nowhere, while also dealing with sexual harrassment on a day-to-day basis. I took a risk by being unemployed for the first time, until almost serendipitously a career in Astronomy led me across the country. I sold my car, donated more than half of my belongings, and haphazardly began my adventure on the opposite coast almost a year ago on my own.
+I "outgrew" my first career where I spent 8 dreadful hours feeling like I was going nowhere, while also dealing with sexual harrassment on a day-to-day basis. I took a risk by being unemployed for the first time, until almost serendipitously a career back in Astronomy led me across the country. I sold my car, donated more than half of my belongings, and haphazardly began my adventure on the opposite coast almost a year ago on my own.
 
 I had to start over in finding my happiness. In California, where I had lived all of my life since immigrating from the Philippines, I had a potent dose of Vitamin D paired with the salty coastal air and a sick circle of supportive and like-minded friends. There was always something going on every weekend, and if I needed to escape, the landscapes easily transformed between lush evergreen forests or vast mountain deserts that reinvigorated my sense of awe in nature. This was my home.
 
@@ -34,10 +34,9 @@ In [*The Conquest for Happiness*](https://wwnorton.com/books/9780871406736), mat
 > "The world is vast and our own powers are limited. If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give. And to demand too much is the surest way of getting even less than is possible. The man who can forget his worries by means of a genuine interest in, say, the Council of Trent, or the life history of stars, will find that, when he returns from his excursion into the impersonal world, he has acquired a poise and calm which enable him to deal with his worries in the best way, and he will in the meantime have experienced a genuine even if temporary happiness."
 
 Throughout the course of my life, I have developed a great affinity for independent sports, reading, participating in cultural events, appreciating and making art, enjoying music, fashion, traveling, engaging in introspective discussions, and now, hopefully, writing... to name a few.
-I notice a similarity that these arouse the "flow" state that nurture my happiness and should succeedingly keep me busy enough to drive away the dark times.
+I notice a similarity that these induce the "flow" state that made the hours slip away easily like falling sand.
 
-Being busy, and "having no time for hobbies" is a common contemporary mishap that is not necessarily the answer to happiness.
-I often returned to the question of the nature of human suffering.
+Being busy, and simply having no "free time" is a common contemporary mishap that is not necessarily the answer to happiness. It is also inherently untrue. We all have the same amount of time. And despite busying my mind, I still felt sad at times. I often returned to the question of the nature of human suffering.
 
 I exchanged some of my well-loved books with an acquantaince who introduced me to Zen Buddhist master Thich Nhat Hanh, who beautifully delivers the message of mindfulness and inner peace. In [*Peace is Every Step*](https://www.randomhousebooks.com/books/74752/), Nhat Hanh reflects:
 > “Suffering is not enough. Life is both dreadful and wonderful... How can I smile when I am filled with so much sorrow? It is natural--you need to smile to your sorrow because you are more than your sorrow.”
