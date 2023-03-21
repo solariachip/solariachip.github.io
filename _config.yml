@@ -11,6 +11,8 @@ description: Bite-sized posts to energize you every day!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/solariachip/solariachip.github.io/master/images/SolariaChip-5.png
 
+collections:
+  authors:
 #
 # Flags below are optional
 #
