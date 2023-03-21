@@ -8,6 +8,7 @@ tags: culture
 <p style='text-align: center;'><i>by Sophia Medallon</i>
 
 <img src='/images/SC_Happy.png'></p>
+
 We are completely overjoyed to release the first article of *Solaria Chip* on the [International Day of Happiness](https://www.un.org/en/observances/happiness-day), which also coincides with World Storytelling Day during Women's History Month. 
 
 This first Chip poses somewhat of a challenge to write given my complex history with my internal struggle for happiness. My profoundly personal account on this topic is susceptible to oversharing, which is coupled with the fact that I have no real experience in writing beyond scientific purposes. Perhaps befittingly; however, I welcome challenges and take joy in confronting them in order to gain a deeper understanding.
