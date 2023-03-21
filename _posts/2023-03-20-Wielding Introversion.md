@@ -8,7 +8,8 @@ tags: culture
 <p style='text-align: center;'><i>by Carli Smith</i>
 
 <img src='/images/Introvert.png'></p>
->“Our culture made a virtue of living only as extroverts. We discouraged the inner journey, the quest for a center. So we lost our center and have to find it again.” -Anais Nin
+
+> “Our culture made a virtue of living only as extroverts. We discouraged the inner journey, the quest for a center. So we lost our center and have to find it again.” -Anais Nin
 
 If you’re an introvert like me, you’ve come to the right place. We have it rough sometimes, don’t we? Having to be an introvert in such an extroverted society… it can be so easy to fall into a pattern of feeling alone, feeling sorry for ourselves, wishing we were different. However, over time I’ve realized how powerful being an introvert can be. I’m here to tell you that introversion is an amazing thing. It is an inherent part of your personality and if you can’t change it, you may as well accept it. 
 
