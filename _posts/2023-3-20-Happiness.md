@@ -57,4 +57,4 @@ Here are some of the things that invoke happiness for me, when all else seems to
 * nature's intrusive/inherent beauties, like witnessing fractals
 * this one is obvious, but anything releasing endorphins
 
-And to the first day of Spring! We welcome you to grow with us.
+And to the first day of Spring! We welcome you to grow with us. 🌻
