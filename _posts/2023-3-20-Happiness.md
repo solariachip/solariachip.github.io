@@ -2,7 +2,6 @@
 layout: post
 title: Happiness
 author: sophia
-github_comments_issueid: "1"
 tags: culture
 ---
 
