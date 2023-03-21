@@ -2,7 +2,6 @@
 layout: post
 title: Wielding Introversion
 author: carli
-github_comments_issueid: "1"
 tags: culture
 ---
 
