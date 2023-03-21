@@ -2,7 +2,6 @@
 layout: post
 title: Wielding Introversion
 author: carli
-github_comments_issueid: "1"
 tags: culture
 ---
 
@@ -25,18 +24,3 @@ and he was right. This is just one example of me tirelessly rewiring my mind to 
 
 
 Another aspect of my introverted personality is I always attempt to seek out deep, meaningful conversations. Part of the reason why I’m writing this blog is because I crave deep discussions, and I hope that reading this short piece elicits a conversation within yourself about your own introversion. I encourage you to see yourself in positive way because being introverted is a blessing, not a curse. Now go use your superpower! (Also it’s [National Introvert Week](https://nationaltoday.com/national-introverts-week/) so we should all be celebrating and/or plotting world domination right now.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
