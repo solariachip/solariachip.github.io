@@ -20,6 +20,7 @@ I spent most of my undergraduate college life forcing myself to be an extrovert 
 
 One thing that helped me accept my introversion was learning to define it in a different way. I had to treat my introversion as a superpower, not as a mechanism for my own-self destruction. One of my defining qualities as an introvert is that I tend to be more quiet in conversations. One could view this as a simple unwillingness to participate in the conversation, but it is really me exercising my ability to listen, to actually hear what people are saying and how they’re saying it in an attempt to understand the true meaning of the words being spoken. Stephen Hawking once said, 
 >“quiet people have the loudest minds” 
+
 and he was right. This is just one example of me tirelessly rewiring my mind to view my introverted tendencies in a more positive light.
 
 
