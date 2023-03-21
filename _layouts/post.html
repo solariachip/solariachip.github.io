@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
+{% assign author = site.data.authors[page.author] %}
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  
-<!-- Lookup the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
 
 <!-- Output author details if some exist. -->
 {% if author %}
