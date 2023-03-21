@@ -56,6 +56,6 @@ Here are some of the things that invoke happiness for me, when all else seems to
 * befriending random cats and/or dogs
 * charity or doing a good deed
 * nature's intrusive/inherent beauties, like witnessing fractals
-* & this one should be obvious but anything releasing endorphins
+* this one is obvious, but anything releasing endorphins
 
 And to the first day of Spring! We welcome you to grow with us.
