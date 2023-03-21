@@ -13,9 +13,9 @@ We are completely overjoyed to release the first article of *Solaria Chip* on th
 
 This first Chip poses somewhat of a challenge to write given my complex history with my internal struggle for happiness. My profoundly personal account on this topic is susceptible to oversharing, which is coupled with the fact that I have no real experience in writing beyond scientific purposes. Perhaps befittingly; however, I welcome challenges and take joy in confronting them in order to gain a deeper understanding.
 
-Depression is one of them. Genetically dispositioned for it and easily influenced by things I cannot control such as weather, the actions of others, and to some extent, my environment--my battle against it often feels like the myth of Sisyphus, condemned to roll a boulder up a hill only for it to roll back down again. On the bright side, one of the benefits of living with chronic major depression for more than half my life is that I became increasingly aware of when I was unhappy and highly analytical of the possible reasons the storm clouds were gathering. When I felt better (and provided I had any energy after the fact), I would take as much action to work towards improving this aspect of my life. 
+Depression is one of them. Genetically dispositioned for it and easily influenced by things I cannot control such as weather, the actions of others, and to some extent, my environment--my battle against it often feels like the [*Myth of Sisyphus*](https://archive.org/details/AlbertCamusTheMythOfSisyphus/mode/2up), condemned to roll a boulder up a hill only for it to roll back down again. On the bright side, one of the benefits of living with chronic major depression for more than half my life is that I became increasingly aware of when I was unhappy and highly analytical of the possible reasons the storm clouds were gathering. When I felt better (and provided I had any energy after the fact), I would take as much action to work towards improving this aspect of my life. 
 
-In *Commentary to The Secret of the Golden Flower*, psychoanalyst Carl Jung observes that 
+In *Commentary to [The Secret of the Golden Flower](https://archive.org/details/in.ernet.dli.2015.175702/page/n17/mode/2up)*, psychoanalyst Carl Jung observes that 
 > “the greatest and most important problems of life are all in a certain sense insoluble. They can never be solved, but only outgrown... Some higher or wider interest arose on the person’s horizon, and through this widening of view, the insoluble problem lost its urgency. It was not solved logically in its own terms, but faded out when confronted with a new and stronger life-tendency."
 
 I "outgrew" my first career in Production and Engineering where I spent 8 dreadful hours feeling like I was going nowhere, while also dealing with sexual harrassment on a day-to-day basis. I took a risk by being unemployed for the first time, until almost serendipitously a career in Astronomy led me across the country. I sold my car, donated more than half of my belongings, and haphazardly began my adventure on the opposite coast almost a year ago on my own.
@@ -28,7 +28,7 @@ During the first months in my new surroundings, I was homesick constantly and fa
 
 When you are sad, the world feels small. You are trapped in the confines of a perceived darkness. I knew very well that for me, allowing my present entourage prevent me from seeking life's inexhaustible joys escalates despondency. 
 
-In *The Conquest for Happiness*, mathematician Bertrand Russell writes:
+In [*The Conquest for Happiness*](https://wwnorton.com/books/9780871406736), mathematician Bertrand Russell writes:
 > "The world is vast and our own powers are limited. If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give. And to demand too much is the surest way of getting even less than is possible. The man who can forget his worries by means of a genuine interest in, say, the Council of Trent, or the life history of stars, will find that, when he returns from his excursion into the impersonal world, he has acquired a poise and calm which enable him to deal with his worries in the best way, and he will in the meantime have experienced a genuine even if temporary happiness."
 
 Throughout the course of my life, I have developed a great affinity for independent sports, reading, participating in cultural events, appreciating and making art, enjoying music, fashion, traveling, engaging in introspective discussions, and now, hopefully, writing... to name a few.
@@ -37,7 +37,7 @@ I notice a similarity that these arouse the "flow" state that nurture my happine
 Being busy, and "having no time for hobbies" is a common contemporary mishap that is not necessarily the answer to happiness.
 I often returned to the question of the nature of human suffering.
 
-I exchanged some of my well-loved books with an acquantaince who introduced me to Zen Buddhist master Thich Nhat Hanh, who beautifully delivers the message of mindfulness and inner peace. In *Peace is Every Step*, Nhat Hanh reflects:
+I exchanged some of my well-loved books with an acquantaince who introduced me to Zen Buddhist master Thich Nhat Hanh, who beautifully delivers the message of mindfulness and inner peace. In [*Peace is Every Step*](https://www.randomhousebooks.com/books/74752/), Nhat Hanh reflects:
 > “Suffering is not enough. Life is both dreadful and wonderful... How can I smile when I am filled with so much sorrow? It is natural--you need to smile to your sorrow because you are more than your sorrow.”
 
 And life will also go on whether you are happy or not. For a good reason, meditation practices are amassing more followers in fast-paced Western culture. It takes daily reflection to take yourself outside of your sorrow, and seek life's joys as a celebration of life.
