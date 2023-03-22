@@ -1,11 +1,16 @@
 ---
 layout: default
 ---
+{% assign authordata = '' | split:'@' %}
 {% for author in site.authors %}
-	{% if post.authors contains author.username or author.username == post.authors %}
-	    <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
-	{% endif %}
+    {% if post.authors contains author.username or author.username == post.authors %}
+        {% capture data %}
+        	<a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
+        {% endcapture %}
+        {% assign authordata = authordata | push: data %}
+    {% endif %}
 {% endfor %}
+<p>Written by {{ authordata | array_to_sentence_string }}</p>
 
 <article class="post">
   <h1>{{ page.title }}</h1>
