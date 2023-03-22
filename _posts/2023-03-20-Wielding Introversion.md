@@ -6,7 +6,7 @@ date: 2023-03-20 11:00:00
 tags: culture
 ---
 
-<img src='/images/Introvert.png'></p>
+<img src='/images/Introvert.png'>
 
 > “Our culture made a virtue of living only as extroverts. We discouraged the inner journey, the quest for a center. So we lost our center and have to find it again.” -Anais Nin
 
