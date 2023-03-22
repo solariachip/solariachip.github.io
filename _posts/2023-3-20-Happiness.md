@@ -56,7 +56,6 @@ Here are some of the things that invoke happiness for me, when all else seems to
 * a hot shower after bracing the cold
 * learning a mindblowing fact
 * reading exceptional books
-* really good pizza
 * befriending random cats and/or dogs
 * charity or doing a good deed
 * nature's intrusive/inherent beauties, like witnessing fractals
