@@ -11,11 +11,11 @@ Carli and I do a brain dump of all the topics we propose to write, with the goal
 
 Much like the famous [*The Jam Experiment*](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20(2000).pdf), psychologists Sheena Iyengar and Mark Lepper published a study in 2000 on decision making with jam. Yum. In a Draeger's (I love that store), they set up a display with 24 samples of varying types of jam. On another day, they limited the sample to only 6 types of jam. While the larger display attracted more people, both groups who tried the jam received the same discount to purchase a jam of their choosing. They found that the group that sampled the more extensive array were 10 times less likely to purchase jam than the group that were only presented 6 varieties. 
 
-Psychologists such as Barry Schwartz call this The Paradox of Choice ([book](https://www.worldcat.org/title/paradox-of-choice-why-more-is-less/oclc/794789950), TED Talk below).
+Psychologists such as Barry Schwartz call this The Paradox of Choice ([his book](https://www.harpercollins.com/products/the-paradox-of-choice-barry-schwartz?variant=32207920234530), TED Talk below).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VO6XEQIsCoM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/VO6XEQIsCoM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Schwartz identifies two major features that paralyze us when making decisions. He observed that people were reporting greater disatisfaction when faced with more choices, as it actually constrains our freedom and energy. Consumers are typically grouped into "Maximizers" and "Satisficers", where maximizers, as the name suggests, ponder greatly about the perfect and best choice. Satisficers are people who are more content with the choices that seem "good enough" and are less likely to doubt their decisions. 
+Schwartz identifies two major features that paralyze us when making decisions. He observed that people were reporting greater dissatisfaction when faced with more choices, as it actually constrains our freedom and energy, often leading to decision fatigue. Consumers are typically grouped into "Maximizers" and "Satisficers", where maximizers, as the name suggests, ponder greatly about the perfect and best choice. Satisficers are people who are more content with the choices that seem "good enough" and are less likely to doubt their decisions. 
 
 French philospher René Descartes calls indecision a type of fear. Written a year before his death, [*The Passions of the Soul*](https://www.cambridge.org/core/books/abs/cambridge-descartes-lexicon/passions-of-the-soul/3615320CB4A58B7F1FE363EAAA34869D) prescribes an inaction of the body stemming from the mind:
 
