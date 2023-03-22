@@ -21,11 +21,9 @@ French philospher René Descartes calls indecision a type of fear. Written a yea
 
 > "Now I call it a kind of fear, even though it may happen that, when we have a choice between several things that appear to be virtually equal in goodness, we remain uncertain and undecided, without, however, feeling any fear. For this kind of indecision stems purely from the situation, and not from any agitation of the spirits: hence it is not a passion, unless the uncertainty of the choice is aggravated by the fear of making a mistake. But in some people this fear is so habitual and so powerful that often, even though they have no choice to make between alternatives and see only one line of action to pursue or to avoid, it holds them back and causes them to waste time in looking for other possibilities; in this case, there is an excess of indecision, which stems from an excessive desire to do the right thing, and from a weakness of the understanding, which has no clear and distinct notions, only a host of confused ones. 
 
-The solution...
+> ...the remedy for this excess is to accustom ourselves to form definite and determinate judgements about whatever things we are confronted with, and to believe that we are always doing our duty when we do what we judge to be best, even though, perhaps, we may be judging quite wrongly." 
 
-> the remedy for this excess is to accustom ourselves to form definite and determinate judgements about whatever things we are confronted with, and to believe that we are always doing our duty when we do what we judge to be best, even though, perhaps, we may be judging quite wrongly." 
-
-Less than a century before him in the [*Selection of Essays*](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm) (I thank the Baltimore [Book Thing](https://bookthing.org) for my free copy and the serendipity of coming across these works), French philospher Montaigne's excerpt in *Inconsistency of Our Actions* regards the actions of people are driven by circumstances more than their beliefs:
+Less than a century before him in the [*Selection of Essays*](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm) (I thank the Baltimore [Book Thing](https://bookthing.org) for my free copy and the serendipity of coming across these works), French philospher Montaigne's excerpt in *Inconsistency of Our Actions* regards the actions of people are driven by circumstances and immediate emotions more than their beliefs:
 
 > "In all antiquity it is hard to pick out a dozen men who set their lives to a certain and constant course, which is the principle goal of wisdom. For, to compromise all wisdom in a word, says an ancient [Seneca], and to embrace all the rules of our life in one, it is 'always to will the same things, and always to oppose the same things'. I would not deign, he says, to add 'provided the will is just'; for if it is not just, it cannot always be whole."
 
@@ -33,7 +31,7 @@ And correspondingly, extending to our permutable existence,
 
 > "What good does it do a man to lay in a supply of paints if he does not know what he is to paint? No one makes a definite plan of his life; we think about it only piecemeal."
 
-In the same way that his "essais" (in French meaning "tests" or "trials") were written and iterated over the course of his life, Montaigne declares that ascribing an individual to affix their beliefs to a single denomination or closed tenet is a difficult practice.
+In the same way that his *"essais"* (in French meaning "tests" or "trials") were written and iterated over the course of his life, Montaigne declares that ascribing an individual to affix their beliefs to a single denomination or closed tenet is a difficult practice.
 
 We are shaped by our experiences, none two alike. Thus, our convictions are reasonably subject to change and indecision. Experience has also taught us the pain of what feels like a wrong decision, and the immensity of only having ourselves to criticize for the responsibility of our actions. 
 
