@@ -13,7 +13,7 @@ layout: default
         {% assign authordata = authordata | push: data %}
     {% endif %}
 {% endfor %}
-<p>Written by {{ authordata | array_to_sentence_string }}</p>
+  <p><i>Written by {{ authordata | array_to_sentence_string }}</i></p>
   
   <div class="entry">
     {{ content }}
