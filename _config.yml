@@ -13,6 +13,16 @@ avatar: https://raw.githubusercontent.com/solariachip/solariachip.github.io/mast
 
 collections:
   authors:
+    output: true
+    permalink: author/:title/
+    
+defaults:
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
 #
 # Flags below are optional
 #
