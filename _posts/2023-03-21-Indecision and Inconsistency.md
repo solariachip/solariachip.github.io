@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indecision and Inconsistency
-author: sophia
+authors: sophia
 tags: philosophy, psychology
 ---
 
