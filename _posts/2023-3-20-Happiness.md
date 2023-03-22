@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happiness
-authors: sophia
+author: sophia
 date: 2023-03-20 09:00:00
 tags: culture
 ---
