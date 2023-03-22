@@ -13,7 +13,7 @@ Much like the famous [*The Jam Experiment*](https://faculty.washington.edu/jdb/3
 
 Psychologists such as Barry Schwartz call this The Paradox of Choice ([his book](https://www.harpercollins.com/products/the-paradox-of-choice-barry-schwartz?variant=32207920234530), TED Talk below).
 
-<iframe width="400" height="315" src="https://www.youtube.com/embed/VO6XEQIsCoM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p style='text-align: center;'><iframe width="400" height="315" src="https://www.youtube.com/embed/VO6XEQIsCoM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 Schwartz identifies two major features that paralyze us when making decisions. He observed that people were reporting greater dissatisfaction when faced with more choices, as it actually constrains our freedom and energy, often leading to decision fatigue. Consumers are typically grouped into "Maximizers" and "Satisficers", where maximizers, as the name suggests, ponder greatly about the perfect and best choice. Satisficers are people who are more content with the choices that seem "good enough" and are less likely to doubt their decisions. 
 
