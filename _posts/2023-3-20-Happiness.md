@@ -17,6 +17,8 @@ Depression is one of them. Genetically dispositioned for it and easily influence
 
 On the bright side, one of the benefits of living with chronic depression for more than half my life is that I became increasingly aware of when I was unhappy and highly analytical of the possible reasons the storm clouds were gathering. When I felt better (and provided I had any energy after the fact), I would take as much action to work towards improving this aspect of my life. Again, I don't think that seeking to understand the nature and root of my sadness makes me a sad person.
 
+<p style='text-align: center;'><img src='/images/spongebob-sad.jpg' height='300' length='350'></p>
+
 In *Commentary to [The Secret of the Golden Flower](https://archive.org/details/in.ernet.dli.2015.175702/page/n17/mode/2up)*, psychoanalyst Carl Jung observes that 
 > “the greatest and most important problems of life are all in a certain sense insoluble. They can never be solved, but only outgrown... Some higher or wider interest arose on the person’s horizon, and through this widening of view, the insoluble problem lost its urgency. It was not solved logically in its own terms, but faded out when confronted with a new and stronger life-tendency."
 
