@@ -6,8 +6,6 @@ date: 2023-03-20 09:00:00
 tags: culture
 ---
 
-<p style='text-align: center;'><i>by Sophia Medallon</i></p>
-
 We are completely overjoyed to release the first article of *Solaria Chip* on the [International Day of Happiness](https://www.un.org/en/observances/happiness-day), which also coincides with World Storytelling Day during Women's History Month. 
 
 <img src='/images/SC_Happy.png'>
