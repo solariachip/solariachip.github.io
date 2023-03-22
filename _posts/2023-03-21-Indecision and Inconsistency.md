@@ -37,6 +37,6 @@ We are shaped by our experiences, none two alike. Thus, our convictions are reas
 
 This may be why we stay in "situationships" that don't seem to serve us, find it difficult to move forward in career choices, or have trouble figuring out what shoes go with my Steve Jobs-esque turtleneck.
 
-But what do I know (*"Que sçay-je?" - Montaigne*)? I don't even know what I'll have for dinner. 
+But what do I know (*"Que sçay-je?" - Montaigne*)? I don't even know what I'll have for dinner.
 
-While this is only my second piece, I hope I can be guided in both my writing and everyday decisions. One of my solutions going forward is to limit the number of topics alloted on our growing spreadsheet. In any case, we thank you for making the choice to read our blog!
+While this is only my second piece, I hope I can be guided in both my writing and everyday decisions. One of my solutions going forward is to limit the number of topics alloted on our growing spreadsheet. Making informed choices should also alleviate some concerns thereafter. In any case, we thank you for making the choice to take some time to read our blog! ;)
