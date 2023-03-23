@@ -7,7 +7,7 @@ tags: culture, science
 
 
 
-<img src='/images/nuclear.png'></p>
+<img src='/images/nuclear.png'>
 
 >”The unleashed power of the atom has changed everything save our modes of thinking and thus we drift towards unparalleled catastrophe.” -Albert Einstein
 
