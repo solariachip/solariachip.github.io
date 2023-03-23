@@ -2,7 +2,6 @@
 layout: post
 title: On the Social Influence of Nuclear Power&#58; An Attempt to Quell the Skepticism
 author: carli
-github_comments_issueid: "1"
 tags: culture, science
 ---
 
