@@ -54,4 +54,4 @@ And new to the list:
 * [Greedy Reads](https://www.greedyreads.com), Baltimore, MD
 * [Atomic Books](https://atomicbooks.com), Baltimore, MD
 
-Support your independent bookshops and find the magic of books 🧙‍♀️
+Support your independent bookshops and find the magic of books 🧙‍♂️
