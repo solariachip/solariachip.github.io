@@ -5,7 +5,7 @@ author: carli
 tags: culture, science
 ---
 
-<p style='text-align: center;'><i>by Carli Smith</i>
+
 
 <img src='/images/nuclear.png'></p>
 
