@@ -24,7 +24,7 @@ Coming to browse at a bookshop sets your intentions to learn and seek knowledge,
 My sister came to visit me for the first time since I moved, and it wasn't until I started writing this piece that I realized we have the habit of exploring bookstores any time one of us visits a new city. I think anyone who has come to know me over the ages also knows how much I love spending time in a bookshop.
 
 Here are some of my favorites I've been to and often frequent when I can:
-  <center><font size="5">
+<center>
   <a href="https://www.bookshopsantacruz.com">Bookshop Santa Cruz</a>, Santa Cruz, CA
   
   <img src='/images/IMG_0118.PNG' height=550 width=400>
@@ -40,7 +40,7 @@ Here are some of my favorites I've been to and often frequent when I can:
   <a href="https://www.myopicbookstore.com">Myopic Bookstore</a>, Chicago, IL
   
   <img src='/images/IMG_8595.jpg' height=500 width=400>
-  </center></font>
+</center>
   
 * [Pegasus Books](https://www.pegasusbookstore.com), Berkeley/Oakland, CA
 * [Moe's Books](https://www.moesbooks.com), Berkeley, CA
