@@ -27,7 +27,7 @@ Here are some of my favorites I've been to and often frequent when I can:
 <center>
   <a href="https://www.bookshopsantacruz.com">Bookshop Santa Cruz</a>, Santa Cruz, CA
   
-  <img src='/images/IMG_0118.PNG' height=550 width=400>
+  <img src='/images/IMG_0118.PNG' height=570 width=400>
 
   <a href="https://www.farenheit451books.com">Farenheit 451 Books</a>, Carlsbad, CA
   
