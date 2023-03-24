@@ -13,7 +13,7 @@ Present-day, the debate against physical copies and digital materials has many b
 
 <b>Read between the lines</b>
 
-My quest for a good book usually begins on one end of the narrow passageways, between rows of bounded paper as the canvas to the artist's thoughts and message, with a profound ability to transport you to another realm or another time. In as much as the way that believers attend a place of worship like a chapel or a temple, bookshops are my sanctuary from the rest of the world, that which knowledge is my devotion. 
+My quest for a good book usually begins on one end of the narrow passageways, between rows of bounded paper acting as the canvas to the artist's thoughts and message, with a profound ability to transport you to another realm or time. In as much as the way that believers attend a place of worship like a chapel or a temple, bookshops are my sanctuary from the rest of the world, that which knowledge is my devotion. 
 
 On some occassions I have a quarry--I might go straight to Science Fiction, saunter to the Feminism section for anything by Bell Hooks, or track down [*Beethoven: Letters, Journals, and Conversation*](https://bookshop.org/p/books/beethoven-letters-journals-and-conversations-michael-hamburger/73101?ean=9780837198996) in Music or maybe Bibliographies. 
 
