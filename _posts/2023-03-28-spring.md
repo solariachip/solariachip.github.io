@@ -1,0 +1,22 @@
+---
+layout: post
+title: Signs of Spring
+author: carli
+tags: nature
+---
+
+While I waited for my bus home the other day I was watching a bunny carelessly hop around in the grass, and it dawned on me that Spring was approaching. Animals and birds are out, blooms start to appear on the trees, and the people around you seem generally happier. It’s that time of year in between the Winter and Spring seasons where you start to notice these signs of life again, and with it, a newfound inspiration. A re-awakening of the body and soul after a harsh, cold winter. This is one of my favorite times of the year as after months of bitter cold my body longs for warmth again. There’s something magical about the way everything starts to slowly wake up again, like some unseen magical force is gently giving life back into the world. 
+
+<img src='/images/spring.png'>
+
+Here are some of the many things I love about Spring and makes having the seasonal allergies worth it:
+✵Bunnies
+✵Feeding the chipmunk that frequents my back porch
+✵Lake trips
+✵Long hikes
+✵Running without having to put 5 layers on
+✵Farmers markets
+✵Picking flowers
+✵Being able to garden again
+
+I hope that as this seasonal transition continues, you take the time to stop and appreciate the beauty unfolding around you. What are some of the things you are looking forward to this Spring? 
