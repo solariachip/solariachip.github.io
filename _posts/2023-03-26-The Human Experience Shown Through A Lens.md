@@ -2,7 +2,7 @@
 layout: post
 title: The Human Experience Shown Through A Lens
 author: carli
-tags: culture, film
+tags: culture film
 ---
 
 This past weekend I had the opportunity to attend the [Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour), showcasing a handful of films with themes centered around adventure, social justice, environmentalism, creativity, and the human experience as a whole. This two-night festival is an immersive experience that allows me to connect with myself and my community, and gives me a space to gather inspiration. The organizers of this festival take great care in showing a diversity of films: from drone footage of skiing almost sure to put you in a hypnosis, to rare polar bear sightings, to personal stories of ingenuity and risk-taking. I walked away from this experience with my soul feeling full and alive, ready to walk a path of both challenge and adventure.
