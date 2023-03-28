@@ -2,7 +2,7 @@
 layout: post
 title: Indecision and Inconsistency
 author: sophia
-tags: philosophy, psychology
+tags: philosophy psychology
 ---
 
 Carli and I do a brain dump of all the topics we propose to write, with the goal of posting every day. Struck with indecision, while also in the process of writing other pieces, I noticed today that I couldn't go forward with writing because there were so many interesting subjects. [On average, Americans make about 35,000 decisions a day.](https://go.roberts.edu/leadingedge/the-great-choices-of-strategic-leaders)
