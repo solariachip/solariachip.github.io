@@ -1,5 +1,5 @@
 ---
-layout: tagpages
+layout: tagpage
 title: "Tag: culture"
 tag: culture
 ---
