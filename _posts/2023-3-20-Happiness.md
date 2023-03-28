@@ -3,7 +3,7 @@ layout: post
 title: Happiness
 author: sophia
 date: 2023-03-20 09:00:00
-tag-name: culture
+tags: culture
 ---
 
 We are completely overjoyed to release the first article of *Solaria Chip* on the [International Day of Happiness](https://www.un.org/en/observances/happiness-day), which also coincides with World Storytelling Day during Women's History Month. 
