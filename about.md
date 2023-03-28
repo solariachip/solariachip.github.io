@@ -11,7 +11,7 @@ Just as the name is an *anagram* of Carli Sophia, the human experience is a mixt
 <p style="text-align: center;">✵✵✵✵✵✵✵✵</p>
 
 ## *About Sophia*
-<img align='left' src='/images/Sophia.png' vspace='10'>
+<img align='left' src='/images/Sophia-2.png' vspace='10'>
 
 <p style="text-align: left;"> &nbsp; &nbsp; <b>Sophia Medallon</b> tries to live up to her name by consuming all the wisdoms the world has to offer. Seeming to vacillate between hobbies and interests, she models after the Renaissance woman and enjoys synthesizing skills and knowledge in a time when it has never been so accessible. With a deep interest in anything that ellicits passion and beauty, Sophia was drawn to creating an articulate space with Carli, a vibrant and inspiring woman who never fails to match her own energy and growth mindset. </p>
 <br/><br/>
