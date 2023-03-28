@@ -7,7 +7,7 @@ tags: culture, food
 
 
 
-<img src='/images/bread.png'>
+<img src='/images/bread2.png'>
 
 >“With a piece of bread in your hand you’ll find paradise under a palm tree.” -Russian Proverb
 
