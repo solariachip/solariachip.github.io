@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sensei of the Desert
+title: Sensei of the Desert 🌵
 author: carli
 tags: nature poetry
 ---
