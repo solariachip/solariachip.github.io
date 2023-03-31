@@ -1,6 +1,9 @@
+<meta charset="UTF-8">
+
+
 ---
 layout: post
-title: Sensei of the Desert
+title: Sensei of the Desert <span> U+1F335 <span>
 author: carli
 tags: nature poetry
 ---
@@ -16,7 +19,7 @@ tags: nature poetry
 
 *In a place that holds little life*
 
-               
+<br>               
 
 *Always clear nights to gather wisdom from the stars*
 
@@ -28,7 +31,7 @@ tags: nature poetry
 
 *This is my curse but a blessing to provide a beacon for those who dare not touch me*
 
-               
+<br>               
 
 *What a world, to be exposed but feel so safe*
 
