@@ -5,6 +5,8 @@ author: carli
 tags: nature poetry
 ---
 
+<meta charset="UTF-8">
+
 *I have secured my place in this beautiful wasteland*
 
 *Unphased by the passing of time, I wait for answers under the shade of the sun*
