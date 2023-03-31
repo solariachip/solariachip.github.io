@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sensei of the Desert <span> U+1F335 <span>
+title: Sensei of the Desert
 author: carli
 tags: nature poetry
 ---
