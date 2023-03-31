@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Sensei of the Desert U+1F335
+title: Sensei of the Desert
 author: carli
 tags: nature poetry
 ---
 
-<meta charset="UTF-8">
 
 *I have secured my place in this beautiful wasteland*
 
