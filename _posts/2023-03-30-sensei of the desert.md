@@ -9,7 +9,7 @@ tags: nature poetry
 
 <i>I have secured my place in this beautiful wasteland
 
-Unphased by the passing of time, I wait for answers under the shade of the sun<i>
+Unphased by the passing of time, I wait for answers under the shade of the sun
 
 Limited but limitless in my attempt
 
