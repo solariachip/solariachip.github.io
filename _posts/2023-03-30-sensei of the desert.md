@@ -5,7 +5,7 @@ author: carli
 tags: nature poetry
 ---
 
-<meta charset="UTF-8"> 
+
 
 <i>I have secured my place in this beautiful wasteland<i>
 
