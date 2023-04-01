@@ -39,7 +39,7 @@ It's a necessary skill that will get you far in life. For a long time, this fell
 
 <center><img src='/images/IMG_4263.jpg'>
   <font size=5><i>10 Sept 2018: A stranger tells a good joke at Coconut Grove Marketplace, Hawaii.</font></i>
-  <br></br></center>
+  <br><br/></center>
   
 ✵ Being grateful and being kind \
 The former allows me to stay grounded and the latter works wonders against the defeaters, including yourself.
