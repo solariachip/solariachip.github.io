@@ -34,5 +34,11 @@ Each iterations cultivates improvement and percolates resilience.
 ✵ Wearing flattering and comfortable clothes \
 Know what works for your body. Certain shades of pink throw off my natural/season color palette and mid-calf boots, though I love them, are usually not a good fit for me. Doc Martens, though, definitely make me feel badass.
 
+✵ Mastering small talk \
+It's a necessary skill that will get you far in life. For a long time, this fell under "doing hard things" but it deserves special recognition for the way that it can get a smile out of everyone and has led to amazing conversations and opportunities. 
+
 ✵ Being grateful and being kind \
 The former allows me to stay grounded and the latter works wonders against the defeaters, including yourself.
+
+✵ Being silly \
+Don't hold back.
