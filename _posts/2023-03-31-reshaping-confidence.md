@@ -40,8 +40,9 @@ It's a necessary skill that will get you far in life. For a long time, this fell
 <img src='/images/IMG_4263.jpg'>
   <font size="4"> <i> 10 Sept 2018: A local tells a good story at Coconut Grove Marketplace, Hawaii. </i> </font>
   <br><br/>
+  
 ✵ Being grateful and being kind \
 The former allows me to stay grounded and the latter works wonders against the defeaters, including yourself.
 
 ✵ Being silly \
-Don't hold back.
+Don't hold back and don't negotiate who you are.
