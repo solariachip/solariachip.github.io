@@ -12,7 +12,7 @@ To that end, I lament that [a mental health crisis among young girls](https://ww
 
 You might find it hard to believe (at least my mom, a source of requited love, did) that I struggle with confidence. Growing up in California, I was surrounded by blue-eyed blondes with tall, slim legs while the media flaunted Kate Moss and Heidi Klum. As I "matured" and started caring more about my appearance, I began to resent my differences that were actually desired by men and women alike. Despite the bewildering attention and constant affirmation I received from strangers, I would still find things to nit-pick and criticize about myself. I do not wish to trivialize the issue of confidence with my own experience--my privilege is an adbridgement to the real quandary of our personal values and on society's as a whole. 
 
-René Descartes in *The Passion of the Soul* revisits his grand adage: "I think, therefore I am" to the lesser known "I regard with compassion, therefore I am". 
+René Descartes in [*The Passion of the Soul*](https://www.cambridge.org/core/books/abs/cambridge-descartes-lexicon/passions-of-the-soul/3615320CB4A58B7F1FE363EAAA34869D) revisits his grand adage: "I think, therefore I am" to the lesser known "I regard with compassion, therefore I am". 
 
 Self-esteem, in alignment to my idea of confidence, is the replete regard of the identity fulfilled by invaluable lessons and distinguished experiences in agreement with my principles. True self-esteem is not an external attribute nor does it become embodied from having followers or admirers as I can attest... Only you can identify and testify your own excellence and farther yet your mark on this world. This is a daily practice.
 
