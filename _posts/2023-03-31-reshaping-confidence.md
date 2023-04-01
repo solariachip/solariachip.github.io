@@ -26,7 +26,7 @@ Here are some things I'm working on that helps me establish more confidence:
 I can't think of better way to demonstrate competence and knowledge than *selflessly* supporting and helping someone else.
 
 ✵ Smelling good \
-I like to rotate the "Soph smell" every so often or depending on the season.
+I like to rotate the "Soph smell" every so often or depending on the season. 🌺
 
 ✵ Doing hard things \
 Each iterations cultivates improvement and percolates resilience.
@@ -38,7 +38,7 @@ Know what works for your body. Certain shades of pink throw off my natural/seaso
 It's a necessary skill that will get you far in life. For a long time, this fell under "doing hard things" but it deserves special recognition for the way that it can get a smile out of everyone and has led to amazing conversations and opportunities. 
 
 <img src='/images/IMG_4263.jpg'>
-  <i>10 Sept 2018: A local tells a good story at Coconut Grove Marketplace, Hawaii. </i>
+  <font size="4"> <i> 10 Sept 2018: A local tells a good story at Coconut Grove Marketplace, Hawaii. </i> </font>
   <br><br/>
   
 ✵ Being grateful and being kind \
