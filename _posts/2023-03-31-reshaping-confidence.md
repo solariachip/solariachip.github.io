@@ -2,7 +2,7 @@
 layout: post
 title: Reshaping Confidence
 author: sophia
-tags: lifestyle women culture philosophy
+tags: culture women lifestyle philosophy
 ---
 
 Demonstrating and practicing confidence is a seemingly tall order with the proliferation of great successes algorithmically presented to us on a daily basis. 
@@ -44,7 +44,7 @@ It's a necessary skill that will get you far in life. For a long time, this fell
 The former allows me to stay grounded and the latter works wonders against the defeaters, including yourself.
 
 ✵ Letting go of things that don't serve you \
-To succeed with the first point, be wary of any superfluous tendencies to people-please. Evaluate the things that are draining you because you should be investing the majority of your energy on self improvement so you can better help others who can't.
+To succeed with the first point, be wary of any superfluous tendencies to people-please. Evaluate the things that are draining you because you should be investing the majority of your energy on self improvement so you can better help others.
 
 ✵ Being silly \
 Don't hold back and don't negotiate who you are.
