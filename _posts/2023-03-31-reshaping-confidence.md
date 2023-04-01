@@ -35,7 +35,7 @@ Each iteration cultivates improvement and percolates resilience.
 Know what works for your body. Certain shades of pink throw off my natural/season color palette and mid-calf boots, though I love them, are usually not a good fit for me. Doc Martens, though, definitely make me feel badass.
 
 ✵ Mastering small talk \
-It's a necessary skill that will get you far in life. For a long time, this fell under "doing hard things" but it deserves special recognition for the way that it can get a smile out of everyone and has led to amazing conversations and opportunities. 
+It's a necessary skill that will get you far in life. For a long time, this fell under "doing hard things" but it deserves special recognition for the way that it can get a smile out of everyone and segued into deeper conversations and connections.
 
 <img src='/images/IMG_4263.jpg'>
   <font size="4"> <i> 10 Sept 2018: A local tells a good story at Coconut Grove Marketplace, Hawaii. </i> </font> <br><br/>
