@@ -26,8 +26,8 @@ The need to intervene with our aesthetics is facilitated by an epidemic of vanit
 <center>
 <img src='/images/IMG_5902.JPG'>
   
-  <i>Sophia Suffers Sunburn</i> (2019). I tan easily, and naively I believed that I was less susceptible to sunburn. Like a majority of skincare consumers, I had so many misconceptions from a lack of knowledge and bewilderment of the myths and truths about self-care and beauty. <br><br/>
+  <i>Sophia Suffers Sunburn</i> (2019) ✵ I tan easily, and naively I believed that I was less susceptible to sunburn. Like a majority of skincare consumers, I had so many misconceptions from a lack of knowledge and bewilderment of the myths and truths about self-care and beauty. <br><br/>
   
   
   <img src='/images/IMG_5105.jpg'>
-  <i>Looking Ahead</i> (2022). Goodbye preconceived notions, hello Sun (and finally sunscreen)!
+  <i>Looking Ahead</i> (2022) ✵ Goodbye preconceived notions, hello Sun (and finally sunscreen)!
