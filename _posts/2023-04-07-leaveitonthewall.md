@@ -14,3 +14,13 @@ One of the reasons why I love climbing is because when I’m up there on the wal
 I started climbing here at Penn State with a few friends from my department. At first, I wasn’t climbing consistently enough to realize how absolute garbage rental shoes are. But as my cadence increased to going climbing two times a week, I finally caved and bought my first pair of climbing shoes. That was when the game changed. I was able to climb a whole grade higher than I had before and I felt unstoppable. I started to learn basic climbing technique, study the “beta” of each route, and focused on challenging myself with harder routes. I then started to notice that there’s a certain point where your mind just sort of turns off. All that exists is the wall and rest of the reality just fades into the periphery. This mental aspect of climbing is one of the things that always draws me to keep going back.
 
 Of course, as true with any sport or hobby, there are challenging days as well. One day my muscles will just feel like noodles and I won’t be able to climb even my warm-up routes. One day I might get so fed up with a route that I’ve been stuck on for weeks and just rage quit (there actually used to be a route at my gym called “Rage Quit”, which really lived up to its name). Or other times I’ll bang up an elbow or a knee. But nothing beats the feeling of having a day where I finally send a project route I’ve been working on for a long time. No matter the outcome, after a long day I always look forward to coming to the gym, going through the simple motions of tying rope, belaying, having a good laugh with my friends, and encouraging each other to keep going. Or friendly trash-talking, there’s a lot of that too. And whenever I come with stress, anxiety, or sadness, I forget about it and leave it on the wall.
+
+
+<img src='/images/pacificedge.jpg'>
+Pacific Edge, Santa Cruz
+
+<img src='/images/trianglerockclub.jpg'>
+Triangle Rock Club, Richmond
+
+<img src='/images/pennstateclimbing.jpg'>
+Climbng wall at Penn State, of which I am a regular
