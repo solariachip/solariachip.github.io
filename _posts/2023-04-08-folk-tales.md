@@ -11,7 +11,7 @@ Even as a child I was compelled to seek the truth and reasoning behind incidents
 
 When I immigrated to America, fortunately my English was already quite good and I took up reading voraciously. My favorite books were always fantasy and myths. I think I felt a connection to the characters embarking on an adventure in a foreign land, and at the same time, I craved a deeper understanding of morals to be found in these tales that were missing from my childhood in the Philippines. Unless I had my head in a book, I was always getting into trouble and incredibly mischievous as a child. I believe it was from my lack of feeling like I belonged to my new American culture where I felt like things were just happening and that was the way it goes around here. It took a bit of time, but I outgrew some of my outright defiance through the lessons I learned from cultural stories, although I kept my questioning and curious nature.
 
-I loved Greek mythology and especially *Harry Potter* and read all the volumes as they were published, but there were two books I read over and over again, recalling their lessons and the beautiful stories they told. 
+I loved Greek mythology and especially adored *Harry Potter* and read all the volumes as they were published, but there were two books I read over and over again, recalling their lessons and the beautiful stories they told. 
 
 In times of sadness and times of boredom, in times of happiness and leisure, I read 
 
