@@ -13,9 +13,9 @@ I loved Greek mythology and I absolutely adored *Harry Potter* and read all the 
 
 In times of sadness and times of boredom, in times of happiness and leisure, I read 
 [*West African Folk Tales*](https://store.doverpublications.com/0486427641.html) by Hugh Vernon-Jackson
-and the Usborne edition of [*Stories from Around the World*](https://www.worldcat.org/title/usborne-stories-from-around-the-world/oclc/44736371) retold by Heather Amery
+and the Usborne edition of [*Stories from Around the World*](https://www.worldcat.org/title/usborne-stories-from-around-the-world/oclc/44736371) retold by Heather Amery.
 
-I found Vernon-Jackson's book in a library and became obsessed with its collection of vivid and fascinating stories, many of them titled with "Why"s and "How"s of creatures and beings both far flung and endemic to Africa. I read the stories of Anansi, a recurring anti-hero and trickster, often portrayed as a spider. I recall the sheer shock I experienced when magical gourds restored the hands of a woman who were severed by her greedy brother. The beginnings of the universe and why the sun and the moon live in the sky echoed the tales of the separation of earth and water and the heavens. Plainly, they were parables of one version of a people far away, but I understood their values and valued their magic. At times I imagined an elder reciting these tales to me around a fire, the basis of civilization and unification under a common ancestor.
+I found Vernon-Jackson's book in a public library and became obsessed with its collection of vivid and fascinating stories, many of them titled with "Why"s and "How"s of creatures and beings both far flung and endemic to Africa. I read the stories of Anansi, a recurring anti-hero and trickster, often portrayed as a spider. I recall the sheer shock I experienced when magical gourds restored the hands of a woman who were severed by her greedy brother. The beginnings of the universe and why the sun and the moon live in the sky echoed the tales of the separation of earth and water and the heavens. Plainly, they were parables of one version of a people far away, but I understood their values and valued their magic. At times I imagined an elder reciting these tales to me around a fire, the basis of civilization and unification under a common ancestor.
 
 <img src='/images/stories.png'>
 
