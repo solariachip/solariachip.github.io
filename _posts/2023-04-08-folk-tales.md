@@ -2,7 +2,7 @@
 layout: post
 title: The Essence of Folk Tales
 author: sophia
-tags: culture books
+tags: culture books personal
 ---
 
 I grew up in the Philippines and moved to California when I was 8 years old. I recall the legends and tales of my culture, but many were frightening and taught children to behave without question or suffer a horrifying fate. Several stories were quite extreme, but this method of instilling fear was entirely pervasive to Filipino customs from the news features they chose to air, such as [instances of religious statues crying blood](https://www.philstar.com/nation/2004/07/14/257467/statue-st-therese-baguio-wept-blood) and stories of self-proclaimed vissionaries. At least [81 percent of the Philippines are Roman Catholics](https://psa.gov.ph/press-releases/id/3422) and quick to believe in miracles, supernatural phenomena, and omens. The masses could be easily controlled with hereditary beliefs and stories like these, but even as a child I was compelled to seek the truth and reasoning behind incidents, although no one would offer me a legitimate answer or take me seriously. 
