@@ -20,6 +20,8 @@ and the Usborne edition of [*Stories from Around the World*](https://www.worldca
 
 I found Vernon-Jackson's book in a library and became obsessed with vivid and fascinating stories, many of them started with the "Why"s and "How"s of the land of Africa. I was told the stories of Anansi, a recurring anti-hero and trickster, often portrayed as a spider. I recall the sheer shock I experienced when magical gourds restored the hands of a woman who were severed by her greedy brother. The beginnings of the universe and why the sun and the moon live in the sky were like the tales of the separation of earth and water and the heavens. Plainly, they were parables of one version of a people far away, but I understood their values and valued their magic. 
 
+<img src='/images/stories.png'>
+
 Our hardcopy copy of *Stories from Around the World* was falling apart at the spine from how much I read it, which made me a bit regretful that I wasn't very careful with it because it was such an ornate book with amazing illustrations. But I had to keep coming back for stories from Australia, Germany, Mexico, Scandinavia, and all over the world that took me to that land and shared their beliefs with me. My favorite was the Baba Yaga story that was much too scary for my younger sister but filled me with delight each time the heroine escaped the witch. 
 
 
