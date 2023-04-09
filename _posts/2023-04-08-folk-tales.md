@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Folk Tales
+title: The Essence of Folk Tales
 author: sophia
 tags: culture books
 ---
