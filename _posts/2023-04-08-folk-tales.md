@@ -5,7 +5,7 @@ author: sophia
 tags: culture books
 ---
 
-I grew up in the Philippines and moved to California when I was 8 years old. I recall the legends and tales of my culture, but many were frightening and taught children to behave without question or suffer a horrifying fate. Several stories were quite extreme, but this method of instilling fear was more pervasive to the Filipino way of life from the news stories they chose to tell, such as the Virgin Mary statues in churches crying blood. What were they trying to tell the public?
+I grew up in the Philippines and moved to California when I was 8 years old. I recall the legends and tales of my culture, but many were frightening and taught children to behave without question or suffer a horrifying fate. Several stories were quite extreme, but this method of instilling fear was more pervasive to the Filipino way of life from the news stories they chose to air, such as the Virgin Mary statues in churches crying blood. What were they trying to tell the public?
 
 Even as a child I was compelled to seek the truth and reasoning behind incidents and things that transpired, but no one would offer me a legitimate answer or take me seriously. 
 
