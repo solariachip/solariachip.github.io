@@ -5,7 +5,7 @@ author: carli
 tags: lifestyle
 ---
 
-In one of my [recent posts](https://solariachip.github.io/spring/) I mentioned that one of my favorite things about the Spring season is being able to garden again. This season I’m starting my garden from seed, which is something I haven’t done before, so I thought it would fun to document the process and turn it into a *Solaria Chip* post. This weekend I started with an herb kit that my mom picked out (thanks mom) consisting of basil, cilantro, and chives (some of my favorites). If it’s your first time sowing seeds, it really helps to start with a kit because it comes with everything you need and gives you instructions. This one came with a planter, 3 soil pucks, and the seeds. 
+In one of my [recent posts](https://solariachip.github.io/spring/) I mentioned that one of my favorite things about the Spring season is being able to garden again. This season I’m starting my garden from seed, which is something I haven’t done before, so I thought it would fun to document the process and turn it into a *Solaria Chip* post. This weekend I started with an herb kit that my mom picked out (thanks mom) consisting of basil, cilantro, and chives (some of my favorites). If it’s your first time sowing seeds, it really helps to start with a kit because it comes with everything you need and gives you instructions. This one came with a planter, 3 dehydrated soil pucks, and the seeds. 
 
 
 You start by first soaking the soil pucks in some water in a bowl and letting them expand.
