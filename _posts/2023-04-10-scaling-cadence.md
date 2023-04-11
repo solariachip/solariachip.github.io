@@ -5,7 +5,7 @@ author: sophia
 tags: personal
 ---
 
-The number of articles on *Solaria Chip* has indubitably grown, but recently Carli and I were assessing the quality of the posts as well as the quality of our lives by taking on this self-imposed responsibility. Like any shiny new toy, we were eager to play every day and exercise our skills and even face some of our fears with this project. 
+The number of articles on *Solaria Chip* has indubitably grown, but recently Carli and I were assessing the quality of the posts as well as the quality of our lives by taking on this self-imposed responsibility of writing every day. Like any shiny new toy, we were eager to play every day and exercise our skills and even face some of our fears with this project. 
 
 For me, I was able to whittle down some of my perfectionist tendencies while still honing the most effective methods for writing. For every topic, I took it as an opportunity to grow my knowledge through research and also reflect on my own personal opinions if I felt it was appropriate or somehow added to the conservation. 
 
@@ -17,4 +17,4 @@ Carli and I are both incredibly hard workers that push ourselves to the limit. S
 
 The survivability of any species on Earth is determined by its adaptability to any and all conditions. Carli realized quickly that her upcoming conferences would take precedence, and for me, it meant reassessing my strategy to combat my emotional fickleness after I fell into another rut. Weighing our commitment will be another experiment we take on with the blog, and we still look forward to all the days we get to share something with purpose to our lives and to anyone still reading. 
 
-For now, we will scale back our frequency until we determine an effective cadence for *Solaria Chip*. Stay tuned! Before I wrote this post, I was researching the concept of quitting. Look for the post soon, since I think it would pair with this announcement and personal anecdote of NOT quitting very nicely.
+For now, we will scale back our frequency until we determine an effective cadence for *Solaria Chip*. Stay tuned at least every week! Before I wrote this, I was researching the concept of quitting. Look for the post soon, since I think it would pair with this announcement and personal anecdote of NOT quitting very nicely.
