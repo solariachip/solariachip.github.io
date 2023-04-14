@@ -12,6 +12,8 @@ Growing up at the turn of the 21st century I never had a dearth of cartoon antic
 American cartoonist Matt Groening has mastered the formula with his lovable familial trope *The Simpsons* since 1989, and ten years after, the multi-talented Seth MacFarlane conspicuously gave us *Family Guy*. The two animators have since created *Futurama* (1999; [2023 reboot](https://whatsondisneyplus.com/futurama-revival-coming-to-hulu-disney-this-summer/)) and *Disenchantment* (2018), and *American Dad!* (2005) and *The Cleveland Show* (2009) that have all maintained their distinguished art styles, respectively. *The Simpsons*, *Family Guy*, and *American Dad!* (one of my favorite shows) hold several [television longevity records](https://entertainment.howstuffworks.com/10-longest-running-tv-shows.htm), with *The Simpsons at 745 episodes* as of last month. Groening and MacFarlane's comedic shows have warranted [primetime](https://www.nielsen.com/insights/2011/what-time-is-really-primetime/) programming slots under Fox, providing American families like mine a time to gather around the television well before the age of streaming. 
 
 <img src='/images/simpsonsguy.jpg'>
+<i>The famed crossover episode, The Simpsons Guy (Family Guy Season 13, Episode 1)</i>
+<br> 
 
 This has been the paramount project of the wildly irreverent animation series *South Park* in their [latest deal with MTV Entertainment Studios under Paramount+](https://southpark.cc.com/news/ivrtcw/mtv-entertainment-studios-inks-new-and-expansive-deal-with-creators-trey-parker-and-matt-stone-through-2027), sardonically titled *The Streaming Wars*. Since 1997, creators Matt Stone and Trey Parker have kept up with the most recent cultural developments, provoking and prodding all topics no matter how sensitive or off-limits they may seem. Their [pilot episode "Cartman Gets an Anal Probe" was made using construction paper](https://southpark.cc.com/news/712d55/faq-do-you-still-use-construction-paper-to-animate-the-show) which laid the foundation for their unrivaled and crude animation style reflective of their raunchy and juvenile humor yet unpretentious social commentary. The simplicity of their style in the shapes of Stan, Kyle, Kenny, and Cartman is hardly conventional among [its successful counterparts that are drawn frame-by-frame overseas, often in Korean animation studios](https://entertainment.howstuffworks.com/tv-animation.htm). Off the coast of California in an intimate studio, changes to the [animation of *South Park*](https://southpark.cc.com/news/78zs1w/fan-question-do-you-hand-draw-every-scene#:~:text=Fun%20side%20note%2C%20the%20very,industry%20standard%203D%20animation%20program) have evolved to rely on CG, but even with advancing technological assets, the stylization of South Park remains rigid and deliberate. Despite its small production team, [their lead time is incredibly short](https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark), providing a unique opportunity to parody and offend its audiences on current events in a matter of [6 days](https://www.hbomax.com/feature/urn:hbo:feature:GXw9mjQqoK8PDwgEAAAfm). For more than 25 years, South Park offers a rare quality of contemporaneous satire from the seeming lack of quality in its style, the artful epitome of [Stylistic Suck](https://allthetropes.org/wiki/Stylistic_Suck#Western_Animation). 
 
@@ -32,8 +34,8 @@ While the call to open AI is certainly a loud one, I am a traditionalist when it
 And since this is entirely my article with pure creative freedom, I'd also like to list more influential cartoons and honorable-mentions that are a must-watch for your next brain rot. At the very least, these are a lot more appealing to the eye. ;)
 
 Cartoon Network \
-✵ *Adventure Time*
-✵ *Regular Show*
+✵ ***Adventure Time***
+✵ ***Regular Show***
 ✵ *The Powerpuff Girls*
 ✵ *Justice League*
 ✵ *Xiaolin Showdown*
@@ -41,27 +43,27 @@ Cartoon Network \
 ✵ Early seasons of *Young Justice*
 
 Adult Swim \
-✵ *Mike Tyson Mysteries*
+✵ ***Mike Tyson Mysteries***
 ✵ *The Boondocks*
 ✵ *Robot Chicken*
 
 Adult Swim's Toonami \
-✵ *Fullmetal Alchemist: Brotherhood*
+✵ ***Fullmetal Alchemist: Brotherhood***
 ✵ *Death Note*
 ✵ *Attack on Titan*
 ✵ Early seasons of *Bleach*
 
 Netflix Original \
-✵ *Bojack Horseman*
-✵ *The Midnight Gospel*
-✵ *Castlevania*
+✵ ***Bojack Horseman***
+✵ ***The Midnight Gospel***
+✵ ***Castlevania***
 ✵ *Love, Death + Robots*
 ✵ *Inside Job*
 
 Nickelodeon \
-✵ *Avatar: The Last Airbender*
+✵ ***Avatar: The Last Airbender***
 ✵ *The Legend of Korra*
-✵ *Invader Zim*
+✵ ***Invader Zim***
 ✵ *Danny Phantom*
 ✵ *Rugrats*
 
