@@ -2,7 +2,7 @@
 layout: post
 title: In Praise of Bad Art
 author: sophia
-tags: art television animation culture technology
+tags: art television culture technology
 ---
 
 [Only '90s kids will remember](https://knowyourmeme.com/memes/only-90s-kids--2) the great plethora of [the second age of golden entertainment](https://www.cnn.com/2013/05/06/showbiz/golden-age-of-tv/index.html) we had to sear our eyes and rot our brains with from the likes of *Johnny Bravo*, *Recess*, *Batman: The Animated Series*, *Ed, Edd, n Eddy*, *The Powderpuff Girls*, *Dexter's Laboratory*, and [more](http://90snation.com/top-10-cartoons-90s/). For decades prior the American media was producing influential works such as *Looney Tunes*, *Tom and Jerry*, *Scooby-Doo*, and *Popeye*, who all taught us the importance of eating spinach to kick ass.
