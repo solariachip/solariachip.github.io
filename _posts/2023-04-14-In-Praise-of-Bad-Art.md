@@ -36,6 +36,7 @@ And since this is entirely my article with pure creative freedom, I'd also like 
 Cartoon Network \
 ✵ ***Adventure Time***
 ✵ ***Regular Show***
+✵ The Grim Adventures of Billy & Mandy
 ✵ *The Powerpuff Girls*
 ✵ *Justice League*
 ✵ *Xiaolin Showdown*
