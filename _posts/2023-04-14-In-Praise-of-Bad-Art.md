@@ -32,13 +32,13 @@ While the call to open AI is certainly a loud one, I am a traditionalist when it
 And since this is entirely my article with pure creative freedom, I'd also like to list more influential cartoons and honorable-mentions that are a must-watch for your next brain rot. At the very least, these are a lot more appealing to the eye. ;)
 
 Cartoon Network
-*Adventure Time*
-*Regular Show*
-*The Powerpuff Girls*
-*Justice League*
-*Xiaolin Showdown*
-*Totally Spies!*
-Early seasons of *Young Justice*
+✵ *Adventure Time*
+✵ *Regular Show*
+✵ *The Powerpuff Girls*
+✵ *Justice League*
+✵ *Xiaolin Showdown*
+✵ *Totally Spies!*
+✵ Early seasons of *Young Justice*
 
 Adult Swim
 ✵ *Mike Tyson Mysteries*
