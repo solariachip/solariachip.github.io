@@ -8,7 +8,7 @@ permalink: /about/
 
 Just as the name is an *anagram* of Sophia Carli, the human experience is a mixture of ideas and finding all the ways to connect with one another and live a meaningful life. **Solaria Chip** provides nourishing nibbles on culture, science, food, art, health, climate, lifestyle, philosophy, and anything under the Sun!
 
-<p style="text-align: center;">✵✵✵✵✵✵✵✵</p>
+<p style="text-align: center;">✵ ✵ ✵ ✵ ✵</p>
 
 ## *About Sophia*
 <img align='left' src='/images/Sophia-2.png' vspace='10'>
