@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sensei of the Desert 🌵
-author: carli
+author: Carli Smith
 tags: nature poetry
 ---
 
