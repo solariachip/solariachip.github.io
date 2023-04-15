@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skincare Sophism
-author: sophia
+author: Sophia Medallon
 tags: science culture lifestyle beauty
 ---
 
