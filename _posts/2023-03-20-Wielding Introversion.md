@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wielding Introversion
-author: carli
+author: Carli Smith
 date: 2023-03-20 11:00:00
 tags: culture
 ---
