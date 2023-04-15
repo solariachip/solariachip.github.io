@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indecision and Inconsistency
-author: sophia
+author: Sophia Medallon
 tags: philosophy psychology
 ---
 
