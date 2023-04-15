@@ -33,4 +33,4 @@ S & C met during their undergraduate careers on the beautiful coast of Santa Cru
 <br/><br/>
 
 ---
-<p style="text-align: center;"><font size="1"> This blog is <a href="https://github.com/solariachip/solariachip.github.io">open source</a>! [Sophia](https://solariachip.github.io/sc/sophia/) has modified the <a href="http://www.jekyllnow.com">Jekyll Now</a> template and is still learning. If you spot errors or would like to contribute, generate a PR <a href="https://github.com/solariachip/solariachip.github.io/pulls">here</a></font>!</p>
+<p style="text-align: center;"><font size="1"> This blog is <a href="https://github.com/solariachip/solariachip.github.io">open source</a>! <a href="https://solariachip.github.io/sc/sophia/">Sophia</a> has modified the <a href="http://www.jekyllnow.com">Jekyll Now</a> template and is still learning. If you spot errors or would like to contribute, generate a PR <a href="https://github.com/solariachip/solariachip.github.io/pulls">here</a>!</font></p>
