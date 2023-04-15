@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Essence of Folk Tales
-author: sophia
+author: Sophia Medallon
 tags: culture books personal
 ---
 
