@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Praise of Bad Art
-author: sophia
+author: Sophia Medallon
 tags: art television culture technology
 ---
 
