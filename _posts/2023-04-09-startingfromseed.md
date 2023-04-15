@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting From Seed
-author: carli
+author: Carli Smith
 tags: lifestyle
 ---
 
