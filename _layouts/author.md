@@ -4,7 +4,7 @@ layout: default
 
 {{ content }}
 
-<div style="text-align: center;">✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵</div>
+<div style="text-align: center;">✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵</div>
 
 <h2>Posts by {{ page.name }}:</h2>
 <ul>
