@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Magic of Bookshops
-author: sophia
+author: Sophia Medallon
 tags: books culture
 ---
 
