@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scaling Cadence
-author: sophia
+author: Sophia Medallon
 tags: personal
 ---
 
