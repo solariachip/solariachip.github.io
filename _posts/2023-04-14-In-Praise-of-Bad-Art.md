@@ -56,10 +56,11 @@ Adult Swim's Toonami \
 ✵ *Attack on Titan*
 ✵ Early seasons of *Bleach*
 
-Netflix Original \
+Netflix Originals \
 ✵ ***Bojack Horseman***
 ✵ ***The Midnight Gospel***
 ✵ ***Castlevania***
+✵ ***Arcane***
 ✵ *Love, Death + Robots*
 ✵ *Inside Job*
 
