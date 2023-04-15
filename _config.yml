@@ -18,7 +18,12 @@ sophia:
 carli:
   name: Carli Smith
 
-#
+collections:
+  people:
+    output: true
+
+
+
 # Flags below are optional
 #
 
