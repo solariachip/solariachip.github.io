@@ -8,7 +8,13 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      by {{ page.name }}
+      <center><i>   
+{% for s in site.sc %}
+  {% if s.name == page.author %}
+  by <a href="{{ site.baseurl }}{{ s.url }}">{{ page.author }}</a>
+  {% endif %}
+  {% endfor %}  
+  </center></i>
 
       <div class="entry">
         {{ post.excerpt | truncatewords:75 }}
