@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<h2> {{ page.name }} </h2>
-
 {{ content }}
 
 <h2>Posts by {{ page.name }}:</h2>
