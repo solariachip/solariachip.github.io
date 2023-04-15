@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Human Experience Shown Through A Lens
-author: carli
+author: Carli Smith
 tags: culture film
 ---
 
