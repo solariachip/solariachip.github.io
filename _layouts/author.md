@@ -4,7 +4,7 @@ layout: default
 
 {{ content }}
 
-***
+------
 
 <h2>Posts by {{ page.name }}:</h2>
 <ul>
