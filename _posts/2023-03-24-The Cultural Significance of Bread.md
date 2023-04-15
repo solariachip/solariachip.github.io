@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cultural Significance of Bread
-author: carli
+author: Carli Smith
 tags: culture food
 ---
 
