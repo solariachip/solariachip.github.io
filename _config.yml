@@ -19,7 +19,7 @@ carli:
   name: Carli Smith
 
 collections:
-  people:
+  sc:
     output: true
 
 
