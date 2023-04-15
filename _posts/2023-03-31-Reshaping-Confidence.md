@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reshaping Confidence
-author: sophia
+author: Sophia Medallon
 tags: culture women lifestyle philosophy
 ---
 
