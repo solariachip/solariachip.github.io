@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leave It on the Wall
-author: carli
+author: Carli Smith
 tags: lifestyle sport personal
 ---
 
