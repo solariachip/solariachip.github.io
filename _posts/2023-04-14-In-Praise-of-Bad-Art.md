@@ -33,6 +33,8 @@ While the call to open AI is certainly a loud one, I am a traditionalist when it
 
 And since this is entirely my article with pure creative freedom, I'd also like to list more influential cartoons and honorable-mentions that are a must-watch for your next brain rot. At the very least, these are a lot more appealing to the eye. ;)
 
+What are some of your animation favorites? Comment below with our new feature! ✨💬
+
 Cartoon Network \
 ✵ ***Adventure Time***
 ✵ ***Regular Show***
