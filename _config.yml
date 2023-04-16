@@ -93,6 +93,10 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - github-pages
   - jekyll-seo-tag
+  - jekyll-paginate
+  
+paginate: 16
+paginate_path: "/blog/page:num/"
 
 # Exclude these files from your production _site
 exclude:
