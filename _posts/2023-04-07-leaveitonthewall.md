@@ -2,7 +2,7 @@
 layout: post
 title: Leave It on the Wall
 author: Carli Smith
-tags: lifestyle sport personal
+tags: lifestyle sports personal
 ---
 
 >”The best part of climbing is when it all clicks and gravity ceases to exist.” -Chris Sharma
