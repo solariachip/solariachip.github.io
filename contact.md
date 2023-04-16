@@ -4,10 +4,10 @@ title: Contact us
 permalink: /contact/
 ---
 
-<center><img src='SolariaChip.png'><center>
+<center><img src='/images/SolariaChip-2.png'><center>
 
-# Mail
-[solariachip@protonmail.com](mailto:solariachip@protonmail.com)
+  <h2> Mail </h2>
+  <a href='mailto:solariachip@protonmail.com'>solariachip@protonmail.com</a>
 
-## Support us
-[Buy us a coffee!](https://www.buymeacoffee.com/solariachip)
+  <h2> Support us </h2>
+  <a href='https://www.buymeacoffee.com/solariachip'>Buy us a coffee!</a>
