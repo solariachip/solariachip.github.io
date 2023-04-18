@@ -1,0 +1,28 @@
+---
+layout: post
+title: The Southern Californian Desert
+author: Sophia Medallon
+tags: nature sustainability
+---
+
+Today I cancelled my flight bound for Palm Springs, California. I've stayed and also have visited the surrounding area several times for trips to Joshua Tree National Park, the San Bernadino National Forest, the Desert Hot Springs, and several nearby natural attractions on vacations to admire the beauty defining Southern California's desert.
+
+This time around, I was bound for Indio, in Coachella Valley for sold out Week 2 performances which would have made this my first Coachella. However, I decided on selling my ticket last week, but I wonder if I would have made this decision had it involved a trip to one of the reserves or national park. Indio, a city east of Palm Springs, is often called the urban desert, where it is practically desolate until the annual Coachella event draws over 750,000 people to 650 acres of dust and mud to frolic and watch performances by the biggest names in music.
+
+Coachella is a rite of passage for most young people today, especially music junkies like me. And while I have experienced some of the most beautiful moments in my life at music events and festivals with friends, it didn't merit the $700 on the wristband and shuttle pass alone. For a number of other reasons, I wasn't keen on making the trip across the country for a weekend of nonstop partying and benders. 
+For my friends heading to the desert and reading this, I'm so sorry! I know you'll have a blast without me and I hope my article can at least spark some interesting conversation in my place. For the next time, it would be a missed opportunity to not go camping on the [Jumbo Rocks](https://www.nps.gov/jotr/planyourvisit/jumbo-rocks-campground.htm) or [Mount San Jacinto State Park](https://www.parks.ca.gov/?page_id=636) and climb Suicide Rock, and go stargazing in any of the great wilderness still untouched by urban affairs and revelry.
+
+The majority of California's deserts are situated in the south, which consists of the Mojave and the Colorado Desert. California's other desert, the Great Basin, is the only "cold" desert in the entire country, located near the Sierra Nevada. The [California Desert Conservation Area](https://www.biologicaldiversity.org/programs/public_lands/deserts/california_desert_conservation_area/index.html) covers nearly one-fourth of the state and hardly experience rainfall. The Mojave Desert, just below its cold cousin, is the driest desert in North America and more notably holds the record for the hottest place in the world inside Death Valley. 
+
+Despite its scorching temperatures, the Mojave Desert bears the [Mojave Yucca](https://calscape.org/Yucca-schidigera-(Mojave-Yucca)?srchcr=sc56e1c1e51f976), some of [the oldest plants on the planet](https://www.sciencefocus.com/nature/top-10-oldest-plants-on-the-planet/) and is the only native home of the [Joshua Tree (*Yucca brevifolia*)](https://calscape.org/loc-california/Yucca%20brevifolia() in the world. The vast mountainous chapparal and desert landscapes of SoCal host a diverse range of fascinating [wildlife including tortoises, falcons, jackrabbits, rattlesnakes, sheep, and antelopes](https://www.fs.usda.gov/land/pubs/ecoregions/ch40.html). 
+
+The biological integrity of the deserts before it was in the care of native [Mohave, Chemehuevi](https://www.nps.gov/moja/learn/historyculture/index.htm), [Quechan](https://www.biologicaldiversity.org/programs/public_lands/deserts/california_desert_conservation_area/history.html), and [the earliest American Indian tribes](http://mojavedesert.net/people/american-indians.html) was compromised from [livestock grazing](https://www.parks.ca.gov/pages/735/files/insertgrasslandinvaders3up.pdf) and the [Gold Rush](https://www.parks.ca.gov/?page_id=1081) until the [Center for Biological Diversity](https://www.biologicaldiversity.org), [Sierra Club](https://www.sierraclub.org), and [Public Employees for Environmental Responsibility](https://peer.org) filed a  [lawsuit](https://www.biologicaldiversity.org/programs/public_lands/deserts/california_desert_conservation_area/pdfs/complaint_2000.pdf) against the Bureau of Land Management and the Fish and Wildlife Service. Our friends at these environmental protection agencies were successful in their 2000 lawsuit, but must continue to work against further destructive human activities. It is a joint effort to preserve the natural beauty of our lands. 
+
+The Coachella fairgrounds (located inside the Colorado desert) offers so many opportunities to recycle, yet [only 20 percent of over 107 tons of waste from the festival actually get recycled, according to a 2017 report from the *Desert Sun*](https://www.desertsun.com/story/life/entertainment/music/coachella/2017/04/21/coachella-generates-107-tons-solid-waste-each-day-20-gets-recycled/305682001/). I would think that a significant portion of this waste comes from plastic water bottles, and for charging so much for a ticket per person you would think they could feasibly ban plastics altogether. In any case, bring a reusable water bottle, which will save you some money and save the surrounding deserts.
+
+<div style='text-align: center;'>
+<img src='/images/IMG_1445.JPG'>
+Joshua Tree National Park (Dec 2018)
+<img src='/images/IMG_5434.png'>
+<img src='/images/IMG_9042.png'>
+Joshua Tree National Park Gets Rainfall (Dec 2019)
