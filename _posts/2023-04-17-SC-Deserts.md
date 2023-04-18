@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: nature sustainability
 ---
 
-Today I cancelled my flight bound for Southern California to the Palm Desert. I've stayed there on a number of occassions and have also visited the surrounding area several times for trips to Joshua Tree National Park, the San Bernadino National Forest, the Desert Hot Springs, and several nearby natural attractions on vacations to admire the beauty defining Southern California's desert.
+Today I cancelled my flight bound for Southern California to the Palm Desert. I've stayed there on a number of occassions and have also visited the surrounding area several times for trips to [Joshua Tree National Park](https://www.nps.gov/jotr/index.htm), the [San Bernadino National Forest](https://www.fs.usda.gov/sbnf), the [Desert Hot Springs](https://www.google.com/search?client=safari&rls=en&q=Desert+Hot+Springs&ie=UTF-8&oe=UTF-8), and other nearby natural attractions on vacations to admire the beauty defining Southern California's desert.
 
 This time around, I was bound for Indio, in Coachella Valley for sold out Week 2 performances which would have made this my first Coachella. However, I decided on selling my ticket last week, but I wonder if I would have made this decision had it involved a trip to one of the reserves or national park. Indio, a city east of Palm Springs, is often called the urban desert, where it is practically desolate until the annual Coachella event draws over 750,000 people to 650 acres of dust and mud to frolic and watch performances by the biggest names in music.
 
