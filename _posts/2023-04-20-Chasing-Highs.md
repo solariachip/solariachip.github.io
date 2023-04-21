@@ -13,7 +13,10 @@ Nevertheless, in my hunt for highs I've distinguished the most potent below:
 
 **✵Experience awe** \
 The great outdoors, points of interest and Great Wonders of the World, adventure, are out there. Further yet, the cosmos has been made known to us through instruments that allow us to gaze at light years of exquisite expanse and peer back in time.
-Today, the [Hubble Space Telescope turns 33 years old](https://www.nasa.gov/image-feature/goddard/2023/hubble-celebrates-33rd-anniversary-with-a-peek-into-nearby-star-forming-region) and continues adding to over the 1.3 million observations that produce the stunning photos inspiring people like me, to chase discovery.
+The [Hubble Space Telescope turns 33 years old](https://www.nasa.gov/image-feature/goddard/2023/hubble-celebrates-33rd-anniversary-with-a-peek-into-nearby-star-forming-region) and continues adding to over the 1.3 million observations that produce the stunning photos inspiring people like me, to chase the high of discovery.
+
+<img src='/images/hubble_33rd_ngc1333_stsci-01gyag6jy36rtbx7sxbmany6n5.png'>
+<i>NGC 1333, located in the Perseus molecular cloud, births new stars between hydrogen clumps and dust filaments. Image courtesy of NASA, ESA, and STScI 🙌</i>
 
 **✵Do something terrifying** \
 Fear provokes [catacholamine](https://www.ncbi.nlm.nih.gov/books/NBK507716/) synthesis in the adrenal gland that regulate adrenaline (epinephrine), noradrenaline (norepinephrine), and dopamine production. Physiologically, the heart rate accelerates and the major organs receive more blood, pupils dilate, essentially priming response in a state of fight-or-flight. Our [sense of danger is regulated by the hippocampus and prefrontal cortex](https://pubmed.ncbi.nlm.nih.gov/24948801/), so tolerance levels will vary among individuals and requires some experimentation. 
