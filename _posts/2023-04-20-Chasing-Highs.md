@@ -33,6 +33,10 @@ The sensory experience of [taste](https://www.ncbi.nlm.nih.gov/books/NBK279408/)
 I don't cook often, but I started baking banana muffins regularly. I audibly moan every time I take the first bite when they're fresh out of the oven. It's not exactly a cheesecake, but nailing the recipe is more than enriching enough from all the effort I put into making it and having it turn out well. 
 Get good at cooking or baking one of your favorite foods. I have a serious sweet tooth, so any baked good would still probably do. And opposed to a highly processed and palatable Oreo (my kryptonite), I'm satiated physically and mentally by developing this skill.
 
+<img src='/images/IMG_9335.jpeg'>
+<img src='/images/IMG_9329.jpeg'>
+<i><center>Create more than you consume. Chocolate Chips are my favorite.</center> </i> <br><br/>
+
 **✵ Laughter** \
 Laughter releases dopamine. Other benefits include an improved immune function and cardiovascular health, increased pain tolerance, reduction of stress and anxiety, noted in [*A Better High*](https://www.mattbellace.com/product/a-better-high/) by psychologist Matt Bellace. His book is addressed to the youth advocating all the ways to find natural highs as they navigate the greater world of drugs and alcohol.
 
