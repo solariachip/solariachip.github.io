@@ -16,7 +16,7 @@ The great outdoors, points of interest and Great Wonders of the World, adventure
 The [Hubble Space Telescope turns 33 years old](https://www.nasa.gov/image-feature/goddard/2023/hubble-celebrates-33rd-anniversary-with-a-peek-into-nearby-star-forming-region) and continues adding to the [1.6 million observations](https://hubblesite.org/contents/news-releases/2023/news-2023-012) that produce the stunning photos inspiring people like me, to chase the high of discovery.
 
 <img src='/images/hubble_33rd_ngc1333_stsci-01gyag6jy36rtbx7sxbmany6n5.png'>
-<center><i><center>NGC 1333, located in the Perseus molecular cloud, births new stars between hydrogen clumps and dust filaments. Image courtesy of NASA, ESA, and STScI 🙌 </i></center><br><br/>
+<i><center>NGC 1333, located in the Perseus molecular cloud, births new stars between hydrogen clumps and dust filaments. Image courtesy of NASA, ESA, and STScI 🙌 </i></center><br><br/>
 
 **✵ Do something terrifying** \
 Fear provokes [catacholamine](https://www.ncbi.nlm.nih.gov/books/NBK507716/) synthesis in the adrenal gland that regulate adrenaline (epinephrine), noradrenaline (norepinephrine), and dopamine production. Physiologically, the heart rate accelerates and the major organs receive more blood, pupils dilate, essentially priming response in a state of fight-or-flight. Our [sense of danger is regulated by the hippocampus and prefrontal cortex](https://pubmed.ncbi.nlm.nih.gov/24948801/), so tolerance levels will vary among individuals and requires some experimentation. 
