@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chasing Highs
-post: Sophia Medallon
+author: Sophia Medallon
 tags: lifestyle personal science
 ---
 
