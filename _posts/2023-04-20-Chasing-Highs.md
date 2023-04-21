@@ -12,7 +12,7 @@ Today, I got up at 5 and started my morning out by getting high, but for the fir
 Nevertheless, in my hunt for highs I've distinguished the most potent below:
 
 **✵ Experience awe** \
-The great outdoors, points of interest and Great Wonders of the World, adventure, are out there. Further yet, the cosmos has been made known to us through instruments that allow us to gaze at light years of exquisite expanse and peer back in time.
+The great outdoors, points of interest and the [Wonders of the World](https://education.nationalgeographic.org/resource/seven-wonders-ancient-world/), adventure, are out there. Further yet, the cosmos has been made known to us through instruments that allow us to gaze at light years of exquisite expanse and peer back in time.
 The [Hubble Space Telescope turns 33 years old](https://www.nasa.gov/image-feature/goddard/2023/hubble-celebrates-33rd-anniversary-with-a-peek-into-nearby-star-forming-region) and continues adding to the [1.6 million observations](https://hubblesite.org/contents/news-releases/2023/news-2023-012) that produce the stunning photos inspiring people like me, to chase the high of discovery.
 
 <img src='/images/hubble_33rd_ngc1333_stsci-01gyag6jy36rtbx7sxbmany6n5.png'>
