@@ -11,28 +11,28 @@ Today, I got up at 5 and started my morning out by getting high, but for the fir
 
 Nevertheless, in my hunt for highs I've distinguished the most potent below:
 
-**✵Experience awe** \
+**✵ Experience awe** \
 The great outdoors, points of interest and Great Wonders of the World, adventure, are out there. Further yet, the cosmos has been made known to us through instruments that allow us to gaze at light years of exquisite expanse and peer back in time.
 The [Hubble Space Telescope turns 33 years old](https://www.nasa.gov/image-feature/goddard/2023/hubble-celebrates-33rd-anniversary-with-a-peek-into-nearby-star-forming-region) and continues adding to the [1.6 million observations](https://hubblesite.org/contents/news-releases/2023/news-2023-012) that produce the stunning photos inspiring people like me, to chase the high of discovery.
 
 <img src='/images/hubble_33rd_ngc1333_stsci-01gyag6jy36rtbx7sxbmany6n5.png'>
 <center><i><center>NGC 1333, located in the Perseus molecular cloud, births new stars between hydrogen clumps and dust filaments. Image courtesy of NASA, ESA, and STScI 🙌 </i></center><br><br/>
 
-**✵Do something terrifying** \
+**✵ Do something terrifying** \
 Fear provokes [catacholamine](https://www.ncbi.nlm.nih.gov/books/NBK507716/) synthesis in the adrenal gland that regulate adrenaline (epinephrine), noradrenaline (norepinephrine), and dopamine production. Physiologically, the heart rate accelerates and the major organs receive more blood, pupils dilate, essentially priming response in a state of fight-or-flight. Our [sense of danger is regulated by the hippocampus and prefrontal cortex](https://pubmed.ncbi.nlm.nih.gov/24948801/), so tolerance levels will vary among individuals and requires some experimentation. 
 
 As a horror aficionado and occasional gamer, I'm thrilled during a ghost hunt in [*Phasmophobia*](https://kineticgames.co.uk) or when I'm getting chased by a killer in [*Dead by Daylight*](https://deadbydaylight.com). I have rowdy impulses, so I always seek out the mosh pit circles in concerts where I'm often fighting for my life, usually against men more than a foot taller. I love cliff-diving, but have had to scale it back a few times in Santa Cruz where the waters are rough and I also experienced the fear of becoming exhausted as I struggled to climb back up and repeatedly smashed into the rocks. When venturing into potential hazards, it is critical to assess all risks in order to fully enjoy it.
 
-**✵Listen to music** \
+**✵ Listen to music** \
 In [*How the Mind Works*](https://stevenpinker.com/publications/how-mind-works-19972009), cognitive scientist Steven Pinker asserts music as an evolutionary and psychological adaptation, likening it to an "auditory cheesecake, an exquisite confection crafted to tickle the sensitive spots of at least six of our mental faculties". 
 Citing Pinker in his book, psychologist *Daniel Levitin* [*This Is Your Brain on Music*](https://www.penguinrandomhouse.com/books/298964/this-is-your-brain-on-music-by-daniel-j-levitin/), presents the effects of music to have a profound impact on memory and well-being. Brain imaging reveals activation in almost every part of the brain, starting with the subcortical structure, or the brain stem, to the hippocampus simultaneously with the ability to evoke a range of emotions or memories. I enjoy almost all genres and also take a great effort to discover new music constantly.
 
-**✵Cook or bake a favorite meal** \
+**✵ Cook or bake a favorite meal** \
 I don't cook often, but I started baking banana muffins regularly. I moan every time I take the first bite when they're fresh out of the oven. It's not exactly a cheesecake, but nailing the recipe is more than enriching enough from all the effort I put into making it and having it turn out well. 
 Get good at cooking or baking one of your favorite foods. I have a serious sweet tooth, so any baked good would still probably do. And opposed to a highly processed and palatable Oreo (my kryptonite), I'd feel satiated in so many ways.
 
-**✵Laughter** \
+**✵ Laughter** \
 Laughter releases dopamine. Other benefits include an improved immune function and cardiovascular health, increased pain tolerance, reduction of stress and anxiety, noted in [*A Better High*](https://www.mattbellace.com/product/a-better-high/) by psychologist Matt Bellace. His book is addressed to the youth advocating all the ways to find natural highs as they navigate the greater world of drugs and alcohol.
 
-**✵Set goals and meet them** \
+**✵ Set goals and meet them** \
 A pattern emerges here: produce dopamine. When we achieve our goals, the brain transmits dopamine when a goal is achieved, leaving us with a positive feeling and the momentum to make progress. This may be the most difficult and nebulous way to achieve a high out there, because everyone's goals and the approach look different. But the sheer act of setting a goal, is enough to exercise the brain's neuroplasticity in order to process emotions, problem solve, and maintain focus according to a [study in the Behaviorial and Cognitive Neuroscience Reviews](https://journals.sagepub.com/doi/abs/10.1177/1534582303002002003). While setting smaller goals plays into the reward-repeat dopamine system, emotions play a role in finding the determination to achieve bigger, loftier goals. Try one, or both, and see which gives you that high.
