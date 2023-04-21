@@ -30,7 +30,7 @@ Citing Pinker in his book, psychologist Daniel Levitin [*This Is Your Brain on M
 **✵ Cook or bake a favorite meal** \
 The sensory experience of [taste](https://www.ncbi.nlm.nih.gov/books/NBK279408/), or [gustation](https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Anatomy_Lab/13%3A_The_Somatic_Nervous_System_(Special_Senses)/13.01%3A_Gustation_(Taste)), is closely linked to emotions.
 
-I don't cook often, but I started baking banana muffins regularly. I moan every time I take the first bite when they're fresh out of the oven. It's not exactly a cheesecake, but nailing the recipe is more than enriching enough from all the effort I put into making it and having it turn out well. 
+I don't cook often, but I started baking banana muffins regularly. I audibly moan every time I take the first bite when they're fresh out of the oven. It's not exactly a cheesecake, but nailing the recipe is more than enriching enough from all the effort I put into making it and having it turn out well. 
 Get good at cooking or baking one of your favorite foods. I have a serious sweet tooth, so any baked good would still probably do. And opposed to a highly processed and palatable Oreo (my kryptonite), I'm satiated physically and mentally by developing this skill.
 
 **✵ Laughter** \
