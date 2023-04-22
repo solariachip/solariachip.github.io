@@ -24,4 +24,4 @@ Gratitude for our [*Pale Blue Dot*](https://www.randomhousebooks.com/books/15973
 
 > "The significance of our lives and our fragile planet is then determined only by our own wisdom and courage. We are the custodians of life’s meaning. We long for a Parent to care for us, to forgive us our errors, to save us from our childish mistakes. But knowledge is preferable to ignorance. Better by far to embrace the hard truth than a reassuring fable. - Carl Sagan, in the Pale Blue Dot"
 
-<img src='/images/IMG_9386.jpeg'>
+<img src='/images/IMG_9387.png'>
