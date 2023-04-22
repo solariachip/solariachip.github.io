@@ -23,3 +23,5 @@ The sonorous clarity offered by the neologism effectuates a relationship between
 Gratitude for our [*Pale Blue Dot*](https://www.randomhousebooks.com/books/159735/) can be expressed with words, the knowledge of the truth, and prescience to support the long-term ecological balance of our home, and [love your planet](https://solariachip.github.io/loveyourplanet/) every day.
 
 > "The significance of our lives and our fragile planet is then determined only by our own wisdom and courage. We are the custodians of life’s meaning. We long for a Parent to care for us, to forgive us our errors, to save us from our childish mistakes. But knowledge is preferable to ignorance. Better by far to embrace the hard truth than a reassuring fable. - Carl Sagan, in the Pale Blue Dot"
+
+<img src='/images/IMG_9386.jpeg'>
