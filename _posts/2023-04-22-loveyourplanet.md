@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love Your Planet
+title: Love Your Planet 💚
 author: Carli Smith
 tags: nature lifestyle sustainability
 ---
@@ -26,6 +26,6 @@ In honor of [Earth Day](https://www.earthday.org/earth-day-2023/), and feeling q
 
 * Get out in nature more!  Seeing Earth’s natural beauty firsthand will make appreciate it so much more. 
 
-Make sure to check out Sophia’s Earth Day post today as well!
+Make sure to check out Sophia’s Earth Day post today as well! 🌏
 
 <img src='/images/loveyourplanet.png'>
