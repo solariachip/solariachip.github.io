@@ -2,6 +2,7 @@
 layout: post
 title: Solastalgia
 author: Sophia Medallon
+date: 2023-04-22 06:20:00
 tags: sustainability science
 ---
 
