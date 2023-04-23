@@ -35,7 +35,7 @@ Get good at cooking or baking one of your favorite foods. I have a serious sweet
 
 <img src='/images/IMG_9335.jpeg'>
 <img src='/images/IMG_9329.jpeg'>
-<i><center>Create more than you consume. Chocolate Chips are my favorite to add in. In the previous batch, I added [opium poppy](https://www.frontiersin.org/articles/10.3389/fchem.2020.00737/full) 😉 </center> </i> <br><br/>
+<i><center>Create more than you consume. Chocolate Chips are my favorite. In the previous batch, I added <a href='https://www.frontiersin.org/articles/10.3389/fchem.2020.00737/full'>opium poppy</a> 😉 </center> </i> <br><br/>
 
 **✵ Laughter** \
 Laughter releases dopamine. Other benefits include an improved immune function and cardiovascular health, increased pain tolerance, reduction of stress and anxiety, noted in the guide [*A Better High*](https://www.mattbellace.com/product/a-better-high/) by psychologist Matt Bellace. His book is addresses the youth and encourages them to explore all the ways to find natural highs as they navigate the greater world of drugs and alcohol.
