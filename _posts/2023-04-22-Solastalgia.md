@@ -6,7 +6,7 @@ date: 2023-04-22 06:00:00
 tags: sustainability science
 ---
 
-[Happy Earth Day](https://www.earthday.org). Every person that has ever existed spent each day on this Earth, from the moment of birth to the moment of death and our remains return to the soil. Earth is home to all of us, yet we are heading into further environmental decline as a result of anthropogenic behavior.
+[Happy Earth Day](https://www.earthday.org). Every person that has ever existed spends each day on this Earth, from the moment of birth until death when our remains return to the soil. Earth is home to all of us, yet we are heading into further environmental decline as a result of anthropogenic behavior.
 
 It was only about 50 years after the end of the [Industrial Revolution](https://education.nationalgeographic.org/resource/industrial-revolution-and-technology/) in 1896 that scientist Svante Arrhenius identified that an escalation in fossil fuel combustion would generate excess atmospheric CO2 and thus lead to enhanced [global warming](https://www.rsc.org/images/Arrhenius1896_tcm18-173546.pdf). Nearly a century later, climate scientist and former NASA Goddard Director [James Hansen testified to Congress](https://babel.hathitrust.org/cgi/pt?id=uc1.b5127807&view=1up&seq=45) the direct relationship between greenhouse gases and global warming, challenging the [political](https://www.nytimes.com/1989/05/09/opinion/the-white-house-and-the-greenhouse.html) and social establishments of the time. This topic was addressed again, this time within the White House from former Vice President Al Gore in his cautionary documentary [*An Inconvenient Truth*](https://algore.com/library/an-inconvenient-truth-dvd) in 2006.
 
