@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: culture philosophy 
 ---
 
-You might have come across the concept of the "triple filter" accredited to [Socrates](https://plato.stanford.edu/entries/socrates/). More or less, the story goes,
+You might have come across the concept of the "triple filter" accredited to [Socrates](https://plato.stanford.edu/entries/socrates/). More or less, the story goes:
 
 Sometime between 469 to 399 BC in Ancient Greece, a man attempts to initiate a conversation with Socrates, implicating a piece of gossip he had heard, either: "Do you know what I just heard about...?" or "You're not going to believe what I heard about...!" The latter rendition even echos contemporary clickbait common around the internet.
 
@@ -15,7 +15,7 @@ Socrates isn't compelled by this, however, and responds by asking if the story t
 *Is what you are about to share Good in any way?* \
 *Is there anything about this story Useful?* 
 
-Whatever story the man wanted to tell Socrates had failed all three tests and Socrates walked away firmly disinterested. "If what you gave to say isn't remotely true, good, or useful then what good reason is there to believe in it?"
+Whatever story the man wanted to tell Socrates had failed all three tests and Socrates walked away firmly disinterested. "If what you have to say isn't remotely true, good, or useful then what good reason is there to believe in it?"
 
 Ironically, this lesson may not even be completely true, as its Socratic origin remains widely unaccounted for, particularly due to the fact that the inscrutable Socrates himself wrote nothing. The maxim has origins in East Asian practices taught in Hinduism in the  [Manusmriti](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202173.html) and is a Muslim proverb reflected in the [Sai Satcharitra](http://www.shirdibooks.com/sai-satcharitra-chapters/). It appears in the Buddhist tradition of the [*samma vaca*](https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-vaca/index.html), or the five factors of the right speech:
 
