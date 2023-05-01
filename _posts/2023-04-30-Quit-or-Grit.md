@@ -5,6 +5,8 @@ author: Sophia Medallon
 tags: psychology culture development books
 ---
 
+<img src='/images/Screenshot 2023-04-30 at 10.34.24 PM.png'>
+
 From an early age, we are taught that the most successful people never quit. Quitters are the lazy and unambitious--deemed as failures or losers without a story to tell because they gave up too quickly. Therefore, most people aren't informed about the right and ripe conditions for quitting because of the omnipresent stigma attached to it. The choice to quit is often avoided until it becomes intolerable and assiduously known, and sometimes it's too late. There is often shame behind people who leave their job, drop a class or major, give up on a sport or hobby, get divorced, end friendships, back out of a business deal or investment, but without knowing the context, the default underlying presumption tends to be full of criticism and judgment about an incapability to persevere.
 
 In effect, grit and quit are often speculated to be polar forces. Grit is a virtue that any worthy main character has and every bit essential for building character. Psychologist Angela Duckworth, author of the bestseller [*Grit: The Power of Passion and Perseverance*](https://angeladuckworth.com/grit-book/), prescribes grittiness for concise achievement over raw talent. In the first chapter, Duckworth cites her [study of the West Point induction training](https://www.pnas.org/doi/10.1073/pnas.1910510116) to establish a common "grittiness" as the most significant factor for predicting success. She asserts,
