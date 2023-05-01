@@ -40,11 +40,11 @@ Posit a public and [social contingency](https://psycnet.apa.org/record/2003-0037
 
 When you make the choice to quit you are not making one decision, but a plethora of others by freeing up this burden on yourself. Quitting does NOT mean recessing into a weaker state, but coming out stronger with more knowledge and experience about finding out what worked and what did not. 
 
-I applied this to quitting my first high paying job after graduating from college and spending a month unemployed for the first time in years. Admittedly, I didn't have much of a concrete plan at the time--and I had a crazy amount of free time. 
+Everyone has a quitting story. A few years ago, I applied this to quitting my first job after graduating from college and spending a month unemployed for the first time in years. Admittedly, I didn't have much of a concrete plan at the time--and I suddenly had a lot of free time. 
 
 I was mostly banking on being hired somewhere else and trying out a new adventure. However, finding another means of financial subsistence was only a smaller goal after making the decision to quit. Ultimately sitting at the top of my goals was a time for personal growth. Sometimes that means traveling the world and going on a soul searching journey. Personally, I know that what works for me is keeping my mind occupied. I love traveling, but I had an issue with mental health that cropped up from work. I wanted to enter the work force and build a meaningful career, but I knew I could not take these issues with me to the next place of employment.
 
-In the brief month I was unemployed I was thoroughly challenged, but by quitting I was able to have more energy, attention, and time to tackle and handle problems and inconveniences when they crop up. I plunged into this decision with great uncertainty as to what my future looked like, but shortly I was extremely lucky and and offered an unbelievable position and meaningful career. 
+In the brief month I was unemployed I was thoroughly challenged, but by quitting I was able to have more energy, attention, and time to tackle and handle problems and inconveniences when they crop up. I plunged into this decision with great uncertainty as to what my future looked like, but shortly I was extremely lucky and and offered an unbelievable position and meaningful career. And I also learned the importance of setting up a plan to work on after quitting. 
 
 As someone who is open to trying anything, I've been able to walk away from many things in my life such as relationships, hobbies, and entire paths from knowing that one decision is not the end of the world because there are other goals to strive for in a large scale process of elimination. And life will go on regardless of any decision that you make.
 
