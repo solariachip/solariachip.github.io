@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quit or Grit
-author: sophia
+author: Sophia Medallon
 tags: psychology culture development books
 ---
 
