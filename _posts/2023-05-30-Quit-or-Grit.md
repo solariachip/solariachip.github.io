@@ -21,7 +21,7 @@ Annie Duke, former professional poker player, psychologist, and author of the bo
 
 Implementing strategies for quitting appropriately will not only help you avoid the pitfalls of the sunk-cost bias, but ultimately benefit you to reclaim time and energy from tolerating an objectionable state of being or [entrapment](https://www.sciencedirect.com/science/article/abs/pii/0022103179900118).
 
-*Establish Advanced Thinking with a Kill Criteria* \
+*✵ Establish Advanced Thinking with a Kill Criteria* \
 Wielding more information will lead to better decisions, but not always. Predicting an outcome with complete accuracy is unlikely, and it is impossible to know every bit of information that could potentially influence any given path. 
 
 Setting limits before initiation is the greatest optimization, but is difficult to gauge and test without clear experience. When a situation begins to present itself unfavorably, begin making an assessment about the capacity and criterion to terminate a venture.
@@ -30,10 +30,10 @@ For example, "I will keep committing to X for X amount of time and evaluate the 
 
 Once you have reached that allotment, it may be evident that there are several indicators authorizing your exit. Rare is the case for reassessment if you initially formulated a fair boundary, albeit tempting for all the psychological reasons above. In the same way set in a motion a plan to achieve a goal, people were found to act in accordance with their intentions, creating conditions for [action by control](https://czp.cuni.cz/czp/images/stories/Vystupy/Seminare/2010%20Theory%20of%20Planned%20Behavior/Ajzen_1985.pdf).
 
-*Accountability* \
+*✵ Accountability* \
 Posit a public and [social contingency](https://psycnet.apa.org/record/2003-00370-007) plan by informing a friend (perhaps better yet, find a nonpartisan) of your kill criteria. Interactions of accountability not only encourage you to follow through, but also provides perspective and clarity to the situation. For example, if you've ever been a witness to a situation where someone is pursuing something that isn't worth it, the decision seems obvious to you. How can this person see they should stop or walk away? Inviting a person you trust that has your best interest to keep you accountable to your criteria and timeline and give them permission to speak the truth. It isn't an easy decision for you and enlisting help can give you the support to stick by your actions.
 
-*Create a goal hierarchy* \
+*✵ Create a goal hierarchy* \
 **Quitting because things are hard is not a good reason to quit.*** Realizing when something is not worthwhile is the real difficulty, regardless of the difficulty.
 
 When you make the choice to quit you are not making one decision, but a plethora of others by freeing up this burden on yourself. Quitting does NOT mean recessing into a weaker state, but coming out stronger with more knowledge and experience about finding out what worked and what did not. 
