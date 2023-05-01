@@ -34,7 +34,7 @@ Once you have reached that allotment, it may be evident that there are several i
 Posit a public and [social contingency](https://psycnet.apa.org/record/2003-00370-007) plan by informing a friend (perhaps better yet, find a nonpartisan) of your kill criteria. Interactions of accountability not only encourage you to follow through, but also provides perspective and clarity to the situation. For example, if you've ever been a witness to a situation where someone is pursuing something that isn't worth it, the decision seems obvious to you. How can this person see they should stop or walk away? Inviting a person you trust that has your best interest to keep you accountable to your criteria and timeline and give them permission to speak the truth. It isn't an easy decision for you and enlisting help can give you the support to stick by your actions.
 
 *✵ Create a goal hierarchy* \
-**Quitting because things are hard is not a good reason to quit.*** Realizing when something is not worthwhile is the real difficulty, regardless of the difficulty.
+**Quitting because things are hard is not a good reason to quit.** Realizing when something is not worthwhile is the real difficulty, regardless of the difficulty.
 
 When you make the choice to quit you are not making one decision, but a plethora of others by freeing up this burden on yourself. Quitting does NOT mean recessing into a weaker state, but coming out stronger with more knowledge and experience about finding out what worked and what did not. 
 
