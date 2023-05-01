@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: psychology culture development books
 ---
 
-<img src='/images/Screenshot 2023-04-30 at 10.34.24 PM.png'>
+<img src='/images/quit.png'>
 
 From an early age, we are taught that the most successful people never quit. Quitters are the lazy and unambitious--deemed as failures or losers without a story to tell because they gave up too quickly. Therefore, most people aren't informed about the right and ripe conditions for quitting because of the omnipresent stigma attached to it. The choice to quit is often avoided until it becomes intolerable and assiduously known, and sometimes it's too late. There is often shame behind people who leave their job, drop a class or major, give up on a sport or hobby, get divorced, end friendships, back out of a business deal or investment, but without knowing the context, the default underlying presumption tends to be full of criticism and judgment about an incapability to persevere.
 
