@@ -2,7 +2,7 @@
 layout: post
 title: Screen-Free Week
 author: Sophia Medallon
-tags: science technology culture 
+tags: science technology culture lifestyle development
 ---
 
 Congratulations, you made it to May but possibly struggling at the end of the day. You've been at work for hours, likely staring at a screen answering emails, taking online meetings and calls. On your break, or lunch, you might have spent some time scrolling through social media or texting memes to your friends. Tired, you go home and turn on the television while simultaneoulsy doing some more mind-numbing scrolling to disengage from reality. Or maybe you go straight for a video game, well into the late hours of the night since your body is readily accepting and continuously recieving blue light.
