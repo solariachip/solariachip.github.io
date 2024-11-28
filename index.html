@@ -10,8 +10,8 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <center><i>   
       by {% for s in site.sc %}
-  {% if s.name == page.author %}
-  by <a href="{{ site.baseurl }}{{ s.url }}">{{ page.author }}</a>
+  {% if s.name == post.author %}
+  by <a href="{{ site.baseurl }}{{ s.url }}">{{ post.author }}</a>
   {% endif %}
   {% endfor %}
       </center></i>
