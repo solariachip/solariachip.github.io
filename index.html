@@ -11,7 +11,7 @@ layout: default
       <center><i>   
       by {% for s in site.sc %}
   {% if s.name == post.author %}
-  by <a href="{{ site.baseurl }}{{ s.url }}">{{ post.author }}</a>
+  <a href="{{ site.baseurl }}{{ s.url }}">{{ post.author }}</a>
   {% endif %}
   {% endfor %}
       </center></i>
