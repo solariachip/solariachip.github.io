@@ -17,6 +17,6 @@ I urge everyone to think about where the things they consume come from, whether 
 <center>
 <img src='/images/abou.png'></center>
   
-  <pre> <i>Source: <a href='https://www.washingtonpost.com/graphics/2019/business/amp-stories/the-children-who-harvest-cocoa/'>The Washington Post, "The children who harvest cocoa"</a> | Photograph by Salwan Georges</i> </pre>
+  <pre> <i>Source: <a href='https://www.washingtonpost.com/graphics/2019/business/amp-stories/the-children-who-harvest-cocoa/'>The Washington Post, "The children who harvest cocoa"</a> | Photograph by Salwan Georges </i> </pre> </center>
 
 Consequently, what kind of message is being spread, or <u>not</u> spread? 
