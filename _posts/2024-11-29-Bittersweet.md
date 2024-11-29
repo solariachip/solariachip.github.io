@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: food sustainability culture
 ---
 
-When was the last time you thought about where you food came from? In America, among several contemporary privileges, food is an excess. But when we grow food on our planet and export goods and produce, it becomes our anthropological responsibility to do so sustainably for the environment and the human connection. Luxury items especially, such as herbs and spices, coffee, and chocolate, are subject to extortion of habitats and its people. 
+When was the last time you thought about where your food came from? In America, among several contemporary privileges, food is an excess. But when we grow food on our planet and export goods and produce, it becomes our anthropological responsibility to do so sustainably for the environment and the human connection. Luxury items especially, such as herbs and spices, coffee, and chocolate, are subject to extortion of habitats and its people. 
 
 The Mars and Hershey company dominate the American mouth and [market, generating over $32 billion USD in total retail sales in 2023](https://www.statista.com/statistics/1298191/top-chocolate-manufacturers-worldwide/). However, almost three-quarters of my favorite flavor grows from a continent I have not yet even visited. West Africa in Côte d’Ivoire and Ghana alone account for 50% of [global cocoa production](https://www.kakaoplattform.ch/about-cocoa/cocoa-facts-and-figures#:~:text=Most%20cocoa%20is%20produced%20in%20West%20Africa). The reigning companies harvesting people to source their beans decided that the farmers didn’t need to be paid a fair wage, and that their children would have to work as well without one at all. 
 
