@@ -15,7 +15,9 @@ These children are unable to go to school and spend years splitting cacao pods, 
 
 I urge everyone to think about where the things they consume come from, whether it’s our food and medicine, the clothes that we wear, the news and content that we hear and see. What is the source enabling the corporations to stay powerful? What kind of impact is my purchase having on a child in another country who hasn’t been to school in 5 years? 
 
-
+<img src='/images/abou.png'>
+  
+  <pre><i>Source: The Washington Post, Photographs by Salwan Georges</i> </pre>
 
 
 
