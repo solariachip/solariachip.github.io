@@ -2,7 +2,7 @@
 layout: post
 title: Bittersweet
 author: Sophia Medallon
-tags: food 
+tags: food sustainability culture
 ---
 
 When was the last time you thought about where you food came from? In America, among several privileges, food is an excess. But when we grow food on our planet and export goods and produce, it becomes our anthropological responsibility to do so sustainably for the environment and the human connection. Luxury items especially, such as herbs and spices, coffee, and chocolate, are subject to extortion of habitats and its people. 
