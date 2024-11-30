@@ -26,7 +26,7 @@ Here are some things I'm working on that helps me establish more confidence:
 I can't think of better way to demonstrate competence and knowledge than by *selflessly* supporting and helping someone else.
 
 ✵ Smelling good \
-Other than maintaining good hygiene, perfume is a luxury I invest in proven to have psychological benefits. I like to rotate the "Soph smell" every so often or depending on the season.
+Other than maintaining good hygiene, perfume is a luxury I invest in proven to have psychological benefits. I like to rotate the "Soph smell" every so often or depending on the season and the feelings I carry in whatever era of life I'm in.
 
 ✵ Doing hard things \
 Each iteration cultivates improvement and percolates resilience.
