@@ -38,7 +38,7 @@ Know what works for your body. Certain shades of pink throw off my natural/seaso
 It's a necessary skill that will get you far in life. For a long time, this fell under "doing hard things" but it deserves special recognition for the way that it can get a smile out of everyone and segued into deeper conversations and connections.
 
 <img src='/images/IMG_4263.jpg'>
-  <font size="4"> <i> 10 Sept 2018: A local tells a good story at Coconut Grove Marketplace, Hawaii. </i> </font> <br><br/>
+  <font size="4"> <i> 10 Sept 2018: A local tells a good story at the kava bar at Coconut Grove Marketplace, Hawaii. </i> </font> 
   
 ✵ Being grateful and being kind \
 The former allows me to stay grounded and the latter works wonders against the defeaters, including yourself.
