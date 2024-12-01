@@ -2,7 +2,7 @@
 layout: post
 title: Questioning and Filtering the Three Sieves
 author: Sophia Medallon
-tags: culture philosophy 
+tags: culture philosophy spirituality
 ---
 
 You might have come across the concept of the "triple filter" accredited to [Socrates](https://plato.stanford.edu/entries/socrates/). More or less, the story goes:
