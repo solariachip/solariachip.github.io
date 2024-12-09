@@ -3,7 +3,7 @@ layout: post
 title: From Track to Pavement to Trail – A Love Letter to Running
 author: Carli Smith
 tags: personal lifestyle
---
+---
 
 >”All I do is keep running in my own cozy, homemade void, my own nostalgic silence.” -Haruki Murakami
 
