@@ -9,7 +9,7 @@ I wept in public during my shift at the observatory upon reaching the epilogue o
 
 Vanya, a poor writer at the bottom of Russian society, binds the tale of two families torn apart by greed and dishonor done upon them. Similar to the role of Devushkin in Dostoevsky’s *[Poor Folk](https://archive.org/details/poorfolkgambler00dost/page/2/mode/2up)*, he is the [polyphonic](https://www.jstor.org/stable/10.5749/j.ctt22727z1) medium caught in a love triangle between his foster family’s daughter and their Machiavellian enemy. Vanya takes in Nellie, a child left with nothing but her illness from extreme destitution. The plot converges on the consequences of her family’s dissension.
 
-<b>✵ mild SPOILERS ahead ✵</b>
+<center><b>✵ mild SPOILERS ahead ✵</b></center>
 
 It read like a soapy drama, at first, and quite often had me reeling from the onslaught of struggle and turmoil set against the characters. Everyone suffers as a result of their choices afflicted by societal pressures, vulnerability, and trauma to their submissive “egoism of suffering”. They experience unrequited loves, youthful passion, humiliation, and collectively suffer from [the human condition](https://search.worldcat.org/title/The-human-condition/oclc/259560) as I have two centuries later in emphatetic tears. In its bittersweet conclusion, my eyes stung and my lips quavered into a deep, puckered frown at Nellie’s pure resolve to remember her painful life leading up to her becoming orphaned. Succumbing to her despair and humiliation, she would die a few days later, leaving her mark on the Ikhmenevs and its readers.
 
