@@ -21,7 +21,7 @@ Just as the name is an *anagram* of Sophia Carli, the human experience is a mixt
 ## *About Carli*
 <img align='right' src='/images/Carli_Chip.png' height='250' hspace='60'>
 
-&nbsp; &nbsp; My name is **Carli Smith**, a graduate student fueled by caffeine and the pursuit of adventure. We all know the internet can be a very negative place sometimes -- my personal mission for this blog is to counteract that by offering people a space to learn, laugh, be introspective, open their minds, and maybe even relate in some way. My partner-in-crime Sophia and I are absolutely stoked to post daily to share our experiences, passions, offer different perspectives, and most importantly have fun doing it! We hope you enjoy.
+&nbsp; &nbsp; **Carli Smith**, a clean energy advocate and lover of nature, is fueled by caffeine and the pursuit of adventure. She aims to get the most out of this game of life by seeking out unique experiences and spreading love and kindness along the way. Her partner-in-crime Sophia is continuously challenging her to think differently and to stay curious. She aims to offer the same challenge to readers of *SolariaChip*, providing a space for people to learn, laugh, be introspective, open their minds, and maybe even relate in some way. Carli is thrilled to have this chance to share her experiences and passions, and most importantly, have fun doing so.
 <div style="text-align: center;">
 <i><a href="https://solariachip.github.io/sc/carli/">✵ Read Carli's posts ✵</a></i></div>
 
