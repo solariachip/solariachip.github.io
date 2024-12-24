@@ -11,7 +11,7 @@ Einstein’s Field equations of [General Relativity](https://physics.info/genera
 
 <figure>
   <img src='/images/GRclass.png'>
-  <figcaption><small>Notes from my General Relativity course in 2020, on covariant derivations.</small></figcaption>
+  <figcaption><small> <i> Notes from my General Relativity course in 2020 at UCSC, on covariant derivations. </i></small></figcaption>
 </figure>
 
 Sometimes referred to as his personal “greatest blunder”, Einstein warily included the cosmological constant Λ to his equations, to counteract gravitational forces against the expansion or contraction of spacetime. Dark energy is 2025’s version of challenging heliocentricity (just don’t tell the flat Earthers). So how do we know what kind of universe we’re living in? A simulation nonetheless, if we assume the universe is spatially flat (k = 0 parameter), the LOCAL conservation of energy by the proper equation of state (negative pressure or p = -wpc²), revealed the cosmological constant revealed in [Einstein’s Static Universe](https://einsteinpapers.press.princeton.edu/vol6-trans/433). However, note that [Noether’s Theorem](https://profoundphysics.com/noethers-theorem-a-complete-guide/) states that “conservation of energy” only holds globally if the universe is invariant under time-translations, which is difficult to apply to a universe changing in scale). The value may be positive or negative in a homogenous and isotropic universe, but evidence since [Hubble’s classification of extragalactic nebulae](https://ui.adsabs.harvard.edu/abs/1926ApJ....64..321H/abstract) largely suggests a positive value from numerous observations of [cosmological redshift](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/). 
