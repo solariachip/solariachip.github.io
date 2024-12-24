@@ -20,8 +20,7 @@ Tensions rise, however, in close proximity with the [Hubble constant](https://ww
 
 <center><video width="320" height="240" controls>
   <source src="https://science.nasa.gov/wp-content/uploads/2023/10/bao-clip.mp4" type="video/mp4">
-</video> 
-</center>
+</video> </center>
   
 <i> Source: [NASA Goddard's Scientific Visualization Studio](https://svs.gsfc.nasa.gov/13768) </i>
 
