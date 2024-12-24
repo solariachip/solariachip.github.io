@@ -21,9 +21,9 @@ Tensions rise, however, in close proximity with the [Hubble constant](https://ww
 <center><video width="320" height="240" controls>
   <source src="https://science.nasa.gov/wp-content/uploads/2023/10/bao-clip.mp4" type="video/mp4">
 </video> 
-Source: [NASA Goddard's Scientific Visualization Studio](https://svs.gsfc.nasa.gov/13768)
 </center>
   
+<i> Source: [NASA Goddard's Scientific Visualization Studio](https://svs.gsfc.nasa.gov/13768) </i>
 
 The mysterious inflationary energy, if constant, would spread baryonic matter until it experiences heat death, or [the Big Freeze](https://www.astronomy.com/science/the-big-freeze-how-the-universe-will-die/). Growing up, when I first learned about the theories behind the fate of our universe, it was almost bizarre to think of its end long after I’d returned the elements made and recycled in the stars. I thought that the galaxies and its structures would be lonely, spread far apart in the cold obscurity of the vacuum of space. 
 
