@@ -2,7 +2,7 @@
 layout: post
 title: Aristotle on Oligarchy, Sagan on Baloney
 author: Sophia Medallon
-tags: science books
+tags: political science books
 ---
 
 Aristotle argued that oligarchies and democracies become the prevailing forms of government over 2 millennium ago. Today, the so-called American democracy, if it may soon be still called that, is at its tipping point under the contemporaneous political climate. Since [the threat of government shutdown this month](https://www.naco.org/news/congress-enacts-continuing-resolution-avert-government-shutdown-through-december-20-2024), billionare Elon Musk openly derailed a critical government spending measure, primarily on healthcare relief and assistance. Musk, who funded Trump’s campaign for $277 million dollars, continues to display his power over the parties by suggesting the outright removal of his opposition against the healthcare legislation that would help millions of struggling Americans. “My friends, that is not democracy,” Senator Bernie Sanders issues a public statement on his YouTube here:
