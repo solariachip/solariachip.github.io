@@ -1,0 +1,18 @@
+---
+layout: post
+title: Aristotle on Oligarchy, Sagan on Baloney
+author: Sophia Medallon
+tags: science books
+---
+
+Aristotle argued that oligarchies and democracies become the prevailing forms of government over 2 millennium ago. The so-called American democracy, if it may be soon still called that, is at its tipping point under the contemporaneous political climate. Since the threat of government shutdown this month, Elon Musk openly derailed a critical government spending measure, primarily on healthcare. Musk, who funded Trump’s campaign for 277 million dollars, continues to display his power over the parties by suggesting outright removal of his opposition over the healthcare legislation that would help millions of struggling Americans. “My friends, that is not democracy,” Senator Bernie Sanders issues a public statement on his YouTube here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dU3aIpMRRMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Make the distinction between correct and deviant constitutions by considering which groups hold power. In [Aristotle’s six-fold classification](https://plato.stanford.edu/entries/aristotle-politics/) of forms of government, oligarchy falls under the rule of wealthy few. The modern day (white, male) oligarchs that have amassed more wealth than the bottom half living in poverty are conspicuously colluding with politicians to make sure their wealth continues to grow. [Federal Reserve data in 2024](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/table/#quarter:129;series:Net%20worth;demographic:networth;population:all;units:shares) indicates that a third of America’s wealth comes from the top 1%, who are financially capable of influencing political matters to serve their interests. 
+
+In his baloney detection guide, Carl Sagan attributes our all-too human errors of delusion and forbearance to speak against injustice as inadequate preparedness in a confusing time. In the advent of fake news, misuse of social media, unprecedented cost-of-living inflation, modern slavery, higher rates of mental illness, foreign war entanglement and looming threat, resource disparity (access to healthcare, clean water and air) seems like a drop in an ocean of problems. 
+
+> “A deception arises, sometimes innocently but collaboratively, sometimes with cynical premeditation. Usually the victim is caught up in a powerful emotion - wonder, fear, greed, grief. Credulous acceptance of baloney can cost you money; that’s what P.T. Barnum meant when he said, ‘There’s a sucker born every minute’. But it can be much more dangerous than that, and when governments and societies lose the capacity for critical thinking, the results can be catastrophic, however sympathetic we may be to those who have bought the baloney.” - Carl Sagan in [The Demon-Haunted World: Science as a Candle in the Dark](https://archive.org/details/B-001-001-709)
+
+Equipped with the tools of judicious critical thinking, demand equal political rights by challenging the billionaires expanding their wealth to politics like another business enterprise. While we are far from regulating the wealth among the population, we can prevent ceding our freedom to corporations and self-serving entities through constant pragmatic re-evaluation of the so-called democratic systems. The repudiation of passive observation by the American people will usher further regression to its general success and happiness as a nation against these entities that wish to control everything, from the real cost of goods to space travel. 
