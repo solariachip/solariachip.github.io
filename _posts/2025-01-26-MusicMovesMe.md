@@ -58,4 +58,4 @@ Indie music is a symbol of freedom, independence, and daring to think differentl
 
 >“If music be the food of love, play on.” -William Shakespeare 
 
-Music is the universal language. It is something we can all understand, and unites us even when differences threaten to divide us. I now invite you to reflect on how moves you — both physically and metaphorically — and let it connect you to yourself and others.
+Music is the universal language. It is something we can all understand, and unites us even when differences threaten to divide us. I now invite you to reflect on how music moves you — both physically and metaphorically — and let it connect you to yourself and others.
