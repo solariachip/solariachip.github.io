@@ -74,5 +74,9 @@ Today, we allow these lands to wither away. We wage wars and commit unfathomable
 Last week for [NPS’s 109th birthday](https://www.nps.gov/planyourvisit/event-details.htm?id=0AE9CC81-AC8A-A2F3-253CB32AAC6DFA2B), I traveled to Colorado’s Rocky Mountain National Park and experienced Whitman’s sense of freedom, paralleled by Kimmerer’s evocation of ecological abundance. I grew up alongside the American wilderness since immigrating to the U.S., and my identity is threaded between the trails, creeks, and wild blackberries I’ve plucked from the soil. Just within days of arriving on American soil, my family took me on a trip to Yosemite National Park. Since then, I’ve crossed over 30 state borders to witness its expansive and diverse parks: from vast Yellowstone, to Grand Canyon shrouded in snow, all the way to Shenandoah in peak fall, and back across Saguaro to Sequoia, stargazing in Joshua Tree, Lassen, conducting geological research at the Pinnacles for class, exploring Hawai'i's Volcanoes, and soon to Mt. Rainier where Carli lives. I’m incredibly fortunate to be able to constantly draw myself back to my roots and answer nature's call for help under these threats, and as such we must be the collective voice for the beautiful and solemn silence of the woods and grass. 
 
 <img src='/images/rmnp.JPG'>
-<center>✵ Rocky Mountain National Park at the Continental Divide, August 28, 2025
+<center>✵ Rocky Mountain National Park at the Continental Divide, August 28, 2025 (most recent!)
+<br><br/></center>
+
+<img src='/images/IMG_2839.jpeg'>
+<center>✵ Yosemite National Park, July 3, 2018 (my favorite!)
 <br><br/></center>
