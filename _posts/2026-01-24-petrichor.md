@@ -12,7 +12,7 @@ Stone blue
 
 You were born too \
 And maybe we met under a canopy \
-Swaying with the ancient ones \
+Rooted with the ancient ones \
 Posthumous fibers binding petrified thoughts 
 
 A common chapter \
