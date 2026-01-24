@@ -21,7 +21,7 @@ Cloying in darkness and fear \
 Foils the life pouring forth
 
 If thinking is evidence \
-Wretchedness should be enough \
+Wretchedness should be adequate \
 To make parallel wakes \
 Small ripples of sequestered humanity
 
@@ -29,4 +29,4 @@ Surrounded by the sea, \
 A lone wave \
 Constructed and destructed each time \
 Pushes the Earth aside \
-Refining bare minerals and leaving nothing
+Refining bare minerals and leaving naught
