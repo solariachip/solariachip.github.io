@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: poetry science
 ---
 
-In a land I was born \
+In a land I was formed \
 Surrounded by the sea \
 The one that makes this pebble \
 Stone blue 
