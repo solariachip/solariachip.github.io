@@ -2,7 +2,7 @@
 layout: post
 title: petrichor
 author: Sophia Medallon
-tags: poetry science
+tags: poetry nature
 ---
 
 In a land I was formed \
@@ -22,7 +22,7 @@ Foils the life pouring forth
 
 If thinking is evidence \
 Wretchedness should be adequate \
-To make parallel wakes \
+To make parallel wakes; \
 Small ripples of sequestered humanity
 
 Surrounded by the sea, \
