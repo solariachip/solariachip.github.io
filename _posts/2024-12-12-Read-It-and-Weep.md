@@ -2,7 +2,7 @@
 layout: post
 title: Read It and Weep
 author: Sophia Medallon
-tags: books philosophy
+tags: literature philosophy books
 ---
 
 Incidentally, I wept during one of my shifts at the observatory upon reaching the epilogue of Fyodor Dostoevsky’s *[The Insulted and Humiliated](https://archive.org/details/injuryinsult00dostrich)*. The roman-feuilleton, published in 1861 after his Siberian exile, marked the beginning of Dostoevsky’s trove of powerful literature among the likes of *[The House of the Dead](https://archive.org/details/houseofdeadorpri00dostuoft/houseofdeadorpri00dostuoft/page/n7/mode/2up)*, *[Notes from the Underground](https://www.gutenberg.org/files/600/600-h/600-h.htm)*, *[Crime and Punishment](https://archive.org/details/crimepunishment00dostiala)*, *[The Idiot](https://www.gutenberg.org/ebooks/2638)*, *[The Possessed/The Devils](https://www.gutenberg.org/files/8117/8117-h/8117-h.htm)*, and my favorite: *[The Brothers Karamazov](https://archive.org/details/brotherskaramaz00dost)*. Albeit considered a minor gem against his later distinguished works, *The Insulted and Humiliated* masterfully captured my maiden-heart in this memorable performance of loss, poverty, and suffering central to all of Dostoevsky’s stories (Nietzsche is said to have wept over it, too).
