@@ -2,7 +2,7 @@
 layout: post
 title: The Call to Nature
 author: Sophia Medallon
-tags: books nature philosophy
+tags: literature nature philosophy books
 ---
 
 Americans witnessed the metamorphosis of mountains, crossed verdant meadows and constellations of ancient trees, reveled in nature’s mathematically tantalizing fractals, only to culminate in confining themselves to the recesses of capitalism and since last year, the [intimations of oligarchy](https://solariachip.com/Oligarchy/). The very roots of politics synthesized to discern freedom from tyrannies, yet contemporary America traverses backwards and into the disenfranchisement and deconstruction of individual liberties. Since this seize, the Trump administration quickly targeted public welfare and environmentalism, including the [National Parks Service (NPS)](https://www.nps.gov/index.htm) by slashing its [budgets](https://www.whitehouse.gov/wp-content/uploads/2025/05/Fiscal-Year-2026-Discretionary-Budget-Request.pdf), [staffing](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce/), while invasively implementing the [erasure](https://www.npca.org/articles/9321-new-park-signs-undermine-rangers-aim-to-erase-history) of its inconvenient facets of history. 
