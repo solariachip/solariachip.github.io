@@ -1,17 +1,19 @@
 ---
 layout: post
-title: petrichor
+title: Blank Verse
 author: Sophia Medallon
 tags: poetry nature
 ---
+(in experimentation: majority is written in blank verse)
 
-In a land I was formed \
-Surrounded by the sea \
-The one that makes this pebble \
+Burgeoned lands bravely \
+Threshed by seas \
+Full bright drops \
+Makes this pebble \
 Stone blue 
 
 You were born too \
-And maybe we met under a canopy \
+And we met at canopy \
 Rooted with the ancient ones \
 Posthumous fibers binding petrified thoughts 
 
