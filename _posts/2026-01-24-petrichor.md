@@ -13,8 +13,8 @@ Makes this pebble \
 Stone blue 
 
 You were born too \
-And we met at canopy \
-Rooted with the ancient ones \
+Canopy cover \
+Rooted with ancient ones \
 Posthumous fibers binding petrified thoughts 
 
 A common chapter \
