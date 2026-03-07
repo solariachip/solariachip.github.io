@@ -19,7 +19,7 @@ Just as the name is an *anagram* of Sophia Carli, the human experience is a mixt
 <br/><br/>
 
 ## *About Carli*
-<img align='right' src='/images/Carli_Chip.png' height='250' hspace='60'>
+<img align='right' src='/images/Carli_Chip.JPG' height='250' hspace='60'>
 
 &nbsp; &nbsp; **Carli Smith**, a clean energy advocate and lover of nature, is fueled by caffeine and the pursuit of adventure. She aims to get the most out of this game of life by seeking out unique experiences and spreading love and kindness along the way. Her partner-in-crime Sophia is continuously challenging her to think differently and to stay curious. She aims to offer the same challenge to readers of *SolariaChip*, providing a space for people to learn, laugh, be introspective, open their minds, and maybe even relate in some way. Carli is thrilled to have this chance to share her experiences and passions, and most importantly, have fun doing so.
 <div style="text-align: center;">
