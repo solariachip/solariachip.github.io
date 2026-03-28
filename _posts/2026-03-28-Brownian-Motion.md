@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Nature of Things: Brownian Motion
+title: On the Nature of Things&#58; Brownian Motion
 author: Sophia Medallon
 tags: science philosophy history math
 ---
