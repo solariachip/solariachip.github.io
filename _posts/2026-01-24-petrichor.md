@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Blank Verse
+title: Genesis - A Poem
 author: Sophia Medallon
 tags: poetry nature
 ---
-(in experimentation: majority is written in blank verse)
 
 Burgeoned lands bravely \
-Threshed by seas \
+Threshed by life-bearing seas \
 Full bright drops \
 Makes this pebble \
 Stone blue 
 
-You were born too \
-Canopy cover \
+You crawled out \
+Into thick canopy cover \
 Rooted with ancient ones \
 Posthumous fibers binding petrified thoughts 
 
