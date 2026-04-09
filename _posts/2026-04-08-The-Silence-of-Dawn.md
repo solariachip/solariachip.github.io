@@ -5,6 +5,7 @@ author: Sophia Medallon
 tags: nature science philosophy poetry
 ---
 
+
 <figure>
   <img src='/images/silenceofdawn.png' alt="Silence of Dawn" style="width:100%">
   <figcaption>Poem and Graphic Collage by me.</figcaption>
