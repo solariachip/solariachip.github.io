@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: nature science philosophy poetry
 ---
 
-<br></br>
+<br>
 
 <figure>
   <img src='/images/silenceofdawn.png' alt="Silence of Dawn" style="width:100%">
