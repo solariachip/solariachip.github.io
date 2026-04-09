@@ -18,5 +18,5 @@ Next month celebrates [International Dawn Chorus Day](https://www.wildlifetrusts
 
 <figure>
   <img src='/images/silenceofdawn.png' alt="Silence of Dawn" style="width:100%">
-  <figcaption>Poem and graphic by me. Happy <a href="https://www.napowrimo.net">NaPoWriMo</a>! </figcaption>
+  <figcaption>Poem and graphic by me. Happy <a href="https://www.napowrimo.net">NaPoWriMo</a>! Left: Leashed kitty! Keep birds safe by keeping your cats indoors and/or adding a bell to give birds an ample warning and better chances of survival.</figcaption>
 </figure>
