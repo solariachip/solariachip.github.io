@@ -5,8 +5,6 @@ author: Sophia Medallon
 tags: nature science philosophy poetry
 ---
 
-<br>
-
 <figure>
   <img src='/images/silenceofdawn.png' alt="Silence of Dawn" style="width:100%">
   <figcaption>Poem and graphic. Happy <a href="https://www.napowrimo.net">NaPoWriMo</a>! </figcaption>
