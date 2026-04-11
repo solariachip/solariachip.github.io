@@ -18,7 +18,7 @@ Some things are obvious, but here are five things I’d love to see at Coachella
 It took me a while to break this habit for anyone who loves to be fitted on a budget, but the environment could use less “festival season” advertising that encourages one-time-use clothing. A [British survey](https://www.the-independent.com/life-style/fashion/summer-outfits-spend-billions-fast-fashion-barnardos-charity-shop-a8998846.html) of their shopping habits revealed that about 7.5 million outfits each year are single-use purchased solely for music festivals. If you can afford Coachella’s admission, I would find it odd if you already didn’t own perfectly festival-ready clothes. There’s perfectly good clothes sitting in your closet, or maybe even, your friend’s or your mom’s in the same size. 
 
 <figure><img src='/images/OSL.png' alt="OSL2025" style="width:90%">
-  <figcaption><i>Outside Lands Festival, Aug, 8 2025</i> Me, wearing my girl Mira's white dress and her in her black (and the black button up used to be mine) Ying and yang baby! Cowboy boots from Goodwill. </figcaption>
+  <figcaption><i>Outside Lands Festival, Aug, 8 2025</i> - Me, wearing my girl Mira's white dress and her in her black (and the black button up used to be mine) Ying and yang baby! Cowboy boots from Goodwill. </figcaption>
 </figure>
 
 
