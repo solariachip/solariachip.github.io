@@ -32,7 +32,7 @@ But alright, if you think that SHEIN top is really cute and could see it making 
 
 2. Save gas where you can.
 
-This is pretty obvious and nearly inevitable if you are camping in a group (you have to arrive at the same time!) but carpooling to Coachella is more efficient for the environment AND the chaotic commute into festival grounds. Coachella has implemented a “Carpoolchella” program which encourages attendants to share their commute.
+This is pretty obvious and nearly inevitable if you are camping in a group (you have to arrive at the same time!) but carpooling to Coachella is more efficient for the environment AND the chaotic commute into festival grounds. Coachella has implemented a [“Carpoolchella” program](https://www.coachella.com/carpoolchella) which encourages attendants to share their commute.
 
 During vehicle searches, there are many Coachella tutorials that recommend putting your car in neutral and pushing it across the grounds. This reduces exhaust fume pollution, and you can easily convince your friends to do it as an excuse to drink more alcohol.
 
