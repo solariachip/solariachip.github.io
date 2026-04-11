@@ -2,7 +2,7 @@
 layout: post
 title: Coachella on Sustainability in the Desert
 author: Sophia Medallon
-tags: nature sustainability music personal
+tags: nature sustainability music fashion personal
 ---
 
 Three years ago when we launched the blog, I wrote about [The Southern California Desert](https://solariachip.com/SC-Deserts/) and momentarily pouted at how I’d pass up on making that my first Coachella. TLDR; it sounds like I’d rather be desert camping? When Carli introduced me to our friend Mike, he graciously brought me into that world. Next week, three years later would actually be my first time hitting the festival ready to escape to good vibes. 
