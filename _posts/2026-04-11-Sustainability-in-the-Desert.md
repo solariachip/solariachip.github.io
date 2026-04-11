@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sustainability in the Desert
+title: Coachella on Sustainability in the Desert
 author: Sophia Medallon
 tags: nature sustainability music personal
 ---
