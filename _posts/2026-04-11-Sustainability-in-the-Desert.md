@@ -5,7 +5,7 @@ author: Sophia Medallon
 tags: nature sustainability music
 ---
 
-Three years ago when we launched the blog, I wrote about [The Southern California Desert](https://solariachip.com/SC-Deserts/) and momentarily pouted a little at how I’d pass up on making that my first Coachella. TLDR; it sounds like I’d rather be desert camping? When Carli introduced me to our friend Mike, he graciously brought me into that world. Next week, three years later would actually be my first time hitting the festival ready to escape to good vibes. 
+Three years ago when we launched the blog, I wrote about [The Southern California Desert](https://solariachip.com/SC-Deserts/) and momentarily pouted at how I’d pass up on making that my first Coachella. TLDR; it sounds like I’d rather be desert camping? When Carli introduced me to our friend Mike, he graciously brought me into that world. Next week, three years later would actually be my first time hitting the festival ready to escape to good vibes. 
 
 Going to Coachella takes a LOT of preparation. For the next half of the week you are expected to thug it out and party hard in the desert with well over a hundred thousand people coming from different parts of the world with their friends, [even their families](https://www.youtube.com/watch?v=VoSzdItyFq0). Beyond dealing with accommodations, I’ve heard of influencers creating spreadsheets of their outfits, and now that I’m faced with the ADHD urgency of having to pack before my flight to Southern California in a couple of days, between the excitement of it all, it can be easy to forget about the environmental impact of these events.
 
