@@ -32,10 +32,10 @@ But alright, if you think that SHEIN top is really cute and could see it making 
 <b>✵ Save gas where you can.</b>
 This is pretty obvious and nearly inevitable if you are camping in a group (you have to arrive at the same time!) but carpooling to Coachella is more efficient for the environment AND the chaotic commute into festival grounds. Coachella has implemented a [“Carpoolchella” program](https://www.coachella.com/carpoolchella) which encourages attendants to share their commute.
 
-During vehicle searches, there are many Coachella tutorials that recommend putting your car in neutral and pushing it across the grounds. This reduces exhaust fume pollution, and you can easily convince your friends to do it as an excuse to drink more alcohol.
+During vehicle searches (this applies to camping), there are many Coachella tutorials that recommend putting your car in neutral and pushing it across the grounds. This reduces exhaust fume pollution, and you can easily convince your friends to do it as an excuse to drink more alcohol.
 
 <b>✵ Bring in less trash. Open any products and manage packaging before entering festival grounds.</b>
-Open wrappers, bags, etc. BEFORE entering the campgrounds so you can prevent bringing in any more garbage than necessary. I wrote about this in the 2023 article, but based on [historical data and reports](https://www.desertsun.com/story/life/entertainment/music/coachella/2017/04/21/coachella-generates-107-tons-solid-waste-each-day-20-gets-recycled/305682001/), Coachella struggles to completely recycle all of thousands of tons of waste. Also in my older article, I didn’t need to attend Coachella to recommend the obvious benefit of bringing a reusable water bottle. Personally, I prefer collapsible flasks.
+Open wrappers, bags, etc. BEFORE entering the campgrounds so you can prevent bringing in any more garbage than necessary. I wrote about this in the 2023 article, but based on [historical data and reports](https://www.desertsun.com/story/life/entertainment/music/coachella/2017/04/21/coachella-generates-107-tons-solid-waste-each-day-20-gets-recycled/305682001/), Coachella struggles to completely recycle all of thousands of tons of waste. I'll also reiterate bringing a reusable water bottle, which if you are no stranger to any sort of festival, is a no-brainer. Personally, I prefer collapsible flasks.
 
 Before arriving consider what you can throw away on your own, applying [Leave No Trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm) where you can and disposing of additional waste.
 
