@@ -38,7 +38,7 @@ During vehicle searches, there are many Coachella tutorials that recommend putti
 
 3. Open any products and manage packaging before entering festival grounds. 
 
-Open wrappers, bags, etc. BEFORE entering the campgrounds so you can prevent bringing in any more garbage than necessary. I wrote about this in the 2023 article, but based on [historical data and reports](https://www.desertsun.com/story/life/entertainment/music/coachella/2017/04/21/coachella-generates-107-tons-solid-waste-each-day-20-gets-recycled/305682001/), Coachella struggles to completely recycle all of thousands of tons of waste. In my article, I didn’t need to attend Coachella to recommend bringing a reusable water bottle. 
+Open wrappers, bags, etc. BEFORE entering the campgrounds so you can prevent bringing in any more garbage than necessary. I wrote about this in the 2023 article, but based on [historical data and reports](https://www.desertsun.com/story/life/entertainment/music/coachella/2017/04/21/coachella-generates-107-tons-solid-waste-each-day-20-gets-recycled/305682001/), Coachella struggles to completely recycle all of thousands of tons of waste. In my older article, I didn’t need to attend Coachella to recommend bringing a reusable water bottle. 
 
 4. Have conversations.
 
