@@ -42,7 +42,7 @@ Before arriving consider what you can throw away on your own, applying [Leave No
 <b>✵ Have conversations.</b>
 Everyone is there to have a good time so it can be uncomfortable to have more responsible and less light-hearted conversations about climate change. It isn’t on everyone’s mind, especially if you’re drunk or geeked coming back from Sexyy Red’s witching hour set, but fostering this sense of community is where sustainability can come back to Coachella.
 
-Coachella’s sustainability can greatly come from attendee participation.
+Talk about it and be curious! We can make Coachella more sustainabile from direct attendee participation.
 Enter the [Global Inheritance](https://www.globalinheritance.org/programs/coachella) program, acting as Coachella’s Sustainability Partner. 
 The program manages Carpoolchella, but also invites speakers to tell stories, give demonstrations, and spread their passion for sustainability. They host raffles and giveaways to encourage festival folks to make choices that are better for the planet. 
 
