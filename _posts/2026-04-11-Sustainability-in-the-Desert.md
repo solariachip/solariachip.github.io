@@ -17,7 +17,15 @@ Some things are obvious, but here are five things I’d love to see at Coachella
 
 It took me a while to break this habit for anyone who loves to be fitted on a budget, but the environment could use less “festival season” advertising that encourages one-time-use clothing. A [British survey](https://www.the-independent.com/life-style/fashion/summer-outfits-spend-billions-fast-fashion-barnardos-charity-shop-a8998846.html) of their shopping habits revealed that about 7.5 million outfits each year are single-use purchased solely for music festivals. If you can afford Coachella’s admission, I would find it odd if you already didn’t own perfectly festival-ready clothes. There’s perfectly good clothes sitting in your closet, or maybe even, your friend’s or your mom’s in the same size. 
 
+<figure><img src='/images/OSL.png' alt="OSL2025" style="width:100%">
+  <figcaption>*Outside Lands Festival, Aug, 8 2025* me wearing my girl Mira's white dress and her in her black. Ying and yang baby!</figcaption>
+</figure>
 
+
+<figure>
+<img src='/images/sstext.png' alt="SStext" style="width:50%">
+  <figcaption>Alternative post title: I have the coolest friends.</figcaption>
+</figure>
 
 Other alternatives: Thrifting, re-purposing clothes ([Coachella has an Art Studio](https://www.instagram.com/coachellaartstudios/), where you can flip or alter old textiles)
 But hey, if you think that SHEIN top is really cute and could see it making reoccurring appearances in your wardrobe, I won’t bug you about the basic concept of recycling and re-use. The dense topic of fast fashion deserves its own discussion. 
@@ -37,7 +45,7 @@ Open wrappers, bags, etc. BEFORE entering the campgrounds so you can prevent bri
 Everyone is there to have a good time so it can be uncomfortable to have more responsible conversations. It isn’t on everyone’s mind, especially if  you’re drunk or geeked coming back from Sexyy Red’s witching hour performance, but fostering this sense of community is where sustainability  can come back to Coachella.
 
 Coachella’s sustainability can greatly come from attendee participation.
-Enter the Global Inheritance program, Coachella’s Sustainability Partner. 
+Enter the [Global Inheritance](https://www.globalinheritance.org/programs/coachella) program, acting as Coachella’s Sustainability Partner. 
 The program manages Carpoolchella, but also invites speakers to tell stories, give demonstrations, and spread their passion for sustainability. They host raffles and giveaways to encourage festival folks to make choices that are better for the planet. 
 
 5. Take a stand.
