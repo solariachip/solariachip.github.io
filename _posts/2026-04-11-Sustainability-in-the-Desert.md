@@ -55,4 +55,4 @@ Since selling my GA ticket three years ago, I’ve seen a ten percent increase f
 
 Luckily, you don’t need anything more than what you already have to read this article to see Coachella’s musical acts. They are live-streamed on [YouTube](https://www.youtube.com/coachella) in the late afternoons (PST), keeping the music free for all. 
 
-We are taking advantage of music, just as we are capable of taking advantage of the environment. Stand up when you have the energy for these things, and bring a culture that cares for sustainability of the arts. 
+We are taking advantage of music, just as we are capable of taking advantage of the environment. Stand up when you have the energy for these things, and bring a culture that cares for sustainability of the arts. Put that word in your head, for everything but especially avenues that inherently generate waste--if they are here to stay how can we make this sustainable? We need to start asking this question about many structures (this is where fashion intersects) and bring awareness to foster room for growth, not harm.
