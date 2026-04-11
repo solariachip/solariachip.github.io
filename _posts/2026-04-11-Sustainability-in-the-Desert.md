@@ -27,8 +27,8 @@ It took me a while to break this habit for anyone who loves to be fitted on a bu
   <figcaption>Alternative post title: I have the coolest friends.</figcaption>
 </figure>
 
-Other alternatives: Thrifting, re-purposing clothes ([Coachella has an Art Studio](https://www.instagram.com/coachellaartstudios/), where you can flip or alter old textiles)
-But hey, if you think that SHEIN top is really cute and could see it making reoccurring appearances in your wardrobe, I won’t bug you about the basic concept of recycling and re-use. The dense topic of fast fashion deserves its own discussion. 
+Other alternatives: Thrifting, re-purposing clothes ([Coachella has an Art Studio](https://www.instagram.com/coachellaartstudios/), where you can flip or alter old textiles).
+But alright, if you think that SHEIN top is really cute and could see it making reoccurring appearances in your wardrobe, I won’t bug you about the basic concept of recycling and re-use. The dense topic of fast fashion deserves its own discussion. 
 
 2. Save gas where you can.
 
