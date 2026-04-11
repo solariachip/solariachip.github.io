@@ -40,6 +40,8 @@ During vehicle searches, there are many Coachella tutorials that recommend putti
 
 Open wrappers, bags, etc. BEFORE entering the campgrounds so you can prevent bringing in any more garbage than necessary. I wrote about this in the 2023 article, but based on [historical data and reports](https://www.desertsun.com/story/life/entertainment/music/coachella/2017/04/21/coachella-generates-107-tons-solid-waste-each-day-20-gets-recycled/305682001/), Coachella struggles to completely recycle all of thousands of tons of waste. In my older article, I didn’t need to attend Coachella to recommend bringing a reusable water bottle. 
 
+Before arriving consider what you can throw away on your own, applying [Leave No Trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm) where you can and disposing of additional waste.
+
 4. <b>Have conversations.</b>
 
 Everyone is there to have a good time so it can be uncomfortable to have more responsible conversations. It isn’t on everyone’s mind, especially if  you’re drunk or geeked coming back from Sexyy Red’s witching hour performance, but fostering this sense of community is where sustainability  can come back to Coachella.
