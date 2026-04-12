@@ -14,7 +14,7 @@ Naturally, anything that is designed for a single event isn’t going to be the 
 Some things are obvious, but here are five things I’d love to see at Coachella (and any other music festivals and shows) that help make it more sustainable:
 
 <b>✵ Stop supporting “fast-fashion”.</b>
-It took me a while to break this habit, like any girly who loves to be fitted on a budget, but the environment could use less “festival season” advertising that encourages one-time-use clothing. A [British survey](https://www.the-independent.com/life-style/fashion/summer-outfits-spend-billions-fast-fashion-barnardos-charity-shop-a8998846.html) of their shopping habits revealed that about 7.5 million outfits each year are single-use pieces purchased solely for music festivals. If you can afford Coachella’s admission, I would find it odd if you already didn’t own reasonable festival-ready clothes. I'll try my best not to judge your brand-new fit when I know there’s perfectly good clothes sitting in your closet, or maybe even your friend’s or someone you know in the same size. 
+It took me a while to break this habit, like any girly who loves to be fitted on a budget, but the environment could use less “festival season” advertising that encourages one-time-use clothing. A [British survey](https://www.the-independent.com/life-style/fashion/summer-outfits-spend-billions-fast-fashion-barnardos-charity-shop-a8998846.html) of their shopping habits revealed that about 7.5 million outfits each year are single-use pieces purchased solely for music festivals. If you can afford Coachella’s admission, I would find it odd if you already didn’t own reasonable festival-ready clothes. I'll try my best not to judge your brand-new fit when I know there’s perfectly good clothes sitting in your closet, or maybe even your friend’s or someone you know in the same size. Caring about the environment is anything but basic.
 
 <figure><img src='/images/OSL.png' alt="OSL2025" style="width:90%">
   <figcaption><i>Outside Lands Festival, Aug, 8 2025</i> - Me, borrowing my girl Mira's white dress and her in her black (and the black button up used to be mine) Ying and yang baby! Cowboy boots from Goodwill. </figcaption>
@@ -42,9 +42,8 @@ Before arriving consider what you can throw away on your own, applying [Leave No
 <b>✵ Have conversations.</b>
 Everyone is there to have a good time so it can be uncomfortable to have more responsible and less light-hearted conversations about climate change. It isn’t on everyone’s mind, especially if you’re drunk or geeked coming back from Sexyy Red’s witching hour set, but fostering this sense of community is where sustainability can come back to Coachella.
 
-Talk about it and be curious! We can make Coachella more sustainabile from direct attendee participation.
-Enter the [Global Inheritance](https://www.globalinheritance.org/programs/coachella) program, acting as Coachella’s Sustainability Partner. 
-The program manages Carpoolchella, but also invites speakers to tell stories, give demonstrations, and spread their passion for sustainability. They host raffles and giveaways to encourage festival folks to make choices that are better for the planet. 
+Talk about it and be curious! Currently, Coachella lacks direct attendee participation aside from the [Global Inheritance](https://www.globalinheritance.org/programs/coachella) program, which is acting as Coachella’s Sustainability Partner. 
+The program manages Carpoolchella, but also invites speakers to tell stories, give demonstrations, and spread their passion for sustainability. They host raffles and giveaways to encourage festival folks to make choices that are better for the planet, but compared to overall attendance their presence is still widely left unnoticed, especially against the backdrop of incredible performances.
 
 <b>✵ Take a stand.</b>
 Last year, [Massive Attack declined an offer to perform at Coachella](https://www.billboard.com/music/music-news/massive-attack-turned-down-coachella-2025-offer-environmental-concerns-1235860435/) due to the festival’s environmental impact, citing their concerns over the festival’s high water usage and carbon emissions. 
