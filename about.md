@@ -4,7 +4,7 @@ title: About Solaria Chip
 permalink: /about/
 ---
 
-![Solaria_Chip](https://raw.githubusercontent.com/solariachip/solariachip.github.io/refs/heads/master/S%20C.png)
+![Solaria_Chip](https://raw.githubusercontent.com/solariachip/solariachip.github.io/refs/heads/master/S%20C-2.png)
 
 Just as the name is an *anagram* of Sophia Carli, the human experience is a mixture of ideas and finding all the ways to connect with one another and live a meaningful life. **Solaria Chip** provides nourishing nibbles on culture, science, food, art, health, climate, lifestyle, philosophy, and anything under the Sun!
 
