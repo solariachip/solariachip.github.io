@@ -21,7 +21,5 @@ The Coachella fairgrounds (located in the Colorado Desert) offers so many opport
 
 <div style='text-align: center;'>
 <img src='/images/IMG_1445.JPG'>
-Joshua Tree National Park (Dec 2018)
 <img src='/images/IMG_5434.png'>
-<img src='/images/IMG_9042.png'>
-Joshua Tree Gets Rainfall (Dec 2019)
+*Joshua Tree National Park (Dec 2018)*
