@@ -10,13 +10,13 @@ Last weekend I ventured out of the city with some friends to the [Salt Creek Rec
 What some may not know about tide pools is that they are not just mere lifeless puddles of ocean water — they are [rich self-sustaining ecosystems of plant and marine life](https://oceanservice.noaa.gov/facts/tide-pool.html) that reflect the ocean’s ecosystem at large. In fact, tide pools are home to some of the most complex biodiversity of any other biome on the planet. Kneeling down on the rocks, I gazed into these little marine worlds with fascination. I was amazed at how much seemingly effortless coexistence there was between different species, especially in such confined spaces. From sea stars to sea anemones to hermit crabs, there was no shortage of life here.
 
 <figure>
-  <img src='/images/seastar.png'>
+  <img src='/images/Seastar.jpeg'>
   <figcaption><small> <i> [Sea stars](https://oregonmarinereserves.com/2018/05/15/seastar/) are typically purple, but can be orange or even brown if found in close proximity to mussels. This is because mussels are an important part of a sea star’s diet, and contain a high concentration of orange and red pigment similar to that of carrots. </i></small></figcaption>
 </figure>
 
 
 <figure>
-  <img src='/images/anemones.png'>
+  <img src='/images/Anemones.jpeg'>
   <figcaption><small> <i> These [green anemones](https://salishmagazine.org/flower-of-the-tide-pool/) shown in the photo above have a symbiotic relationship with the algae plants that live inside them. While the algae get protection from other predators, the anemones gain nutrients in return. </i></small></figcaption>
 </figure>
 
