@@ -11,13 +11,13 @@ What some may not know about tide pools is that they are not just mere lifeless 
 
 <figure>
   <img src='/images/Seastar.jpeg'>
-  <figcaption><small> <i> [Sea stars](https://oregonmarinereserves.com/2018/05/15/seastar/) are typically purple, but can be orange or even brown if found in close proximity to mussels. This is because mussels are an important part of a sea star’s diet, and contain a high concentration of orange and red pigment similar to that of carrots. </i></small></figcaption>
+  <figcaption><small> <i> Sea stars are typically purple, but can be orange or even brown if found in close proximity to mussels. This is because mussels are an important part of a sea star’s diet, and contain a high concentration of orange and red pigment similar to that of carrots. </i></small></figcaption>
 </figure>
 
 
 <figure>
   <img src='/images/Anemones.jpeg'>
-  <figcaption><small> <i> These [green anemones](https://salishmagazine.org/flower-of-the-tide-pool/) shown in the photo above have a symbiotic relationship with the algae plants that live inside them. While the algae get protection from other predators, the anemones gain nutrients in return. </i></small></figcaption>
+  <figcaption><small> <i> These green anemones shown in the photo above have a symbiotic relationship with the algae plants that live inside them. While the algae get protection from other predators, the anemones gain nutrients in return. </i></small></figcaption>
 </figure>
 
 While the tidal forces of the moon influence the existence of tide pools, tide pools themselves [play a crucial role to the health of the surrounding ecosystems](https://dornsife.usc.edu/uscseagrant/2020/07/21/reflections-on-the-future-of-tidepools/). They act as a “kiddie pool” of sorts for young sea creatures, such as barnacles and plankton, that are not yet mature enough to survive on their own in open ocean. But because tide pools are such dynamically changing environments, they also contribute to the high adaptability and survivability of oceanic life. Tide pools also help facilitate the cycling and harmonious balance of nutrients between land and sea, in addition to acting as buffers for erosion.
