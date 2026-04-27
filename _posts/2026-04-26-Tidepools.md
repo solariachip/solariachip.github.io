@@ -28,7 +28,7 @@ With [Earth Day](https://www.earthday.org/earth-day-2026/) approaching the follo
 
 After my visit and the research I’ve done, I understand so much more about how sacred tide pools are and it’s our responsibility to preserve the creatures that inhabit these little worlds. To visit tide pools sustainably whilst respecting the natural environment and our underwater friends, I’d recommend these tips:
 
-✵watch your step to avoid slipping on rocks or stepping on creatures
-✵observe quietly, so as not to scare or disturb the marine life
-✵leave no trace (this should go without saying)
+✵watch your step to avoid slipping on rocks or stepping on creatures\
+✵observe quietly, so as not to scare or disturb the marine life\
+✵leave no trace (this should go without saying)\
 ✵most importantly, be present with nature and enjoy each moment! 
