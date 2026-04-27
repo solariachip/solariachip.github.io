@@ -15,14 +15,14 @@ What some may not know about tide pools is that they are not just mere lifeless 
 </figure>
 
 
+While the tidal forces of the moon influence the existence of tide pools, tide pools themselves [play a crucial role to the health of the surrounding ecosystems](https://dornsife.usc.edu/uscseagrant/2020/07/21/reflections-on-the-future-of-tidepools/). They act as a “kiddie pool” of sorts for young sea creatures, such as barnacles and plankton, that are not yet mature enough to survive on their own in open ocean. But because tide pools are such dynamically changing environments, they also contribute to the high adaptability and survivability of oceanic life. Tide pools also help facilitate the cycling and harmonious balance of nutrients between land and sea, in addition to acting as buffers for erosion.
+
 
 <figure>
   <img src='/images/Anemones.jpeg'>
   <figcaption><small> <i> These green anemones shown in the photo above have a symbiotic relationship with the algae plants that live inside them. While the algae get protection from other predators, the anemones gain nutrients in return. </i></small></figcaption>
 </figure>
 
-
-While the tidal forces of the moon influence the existence of tide pools, tide pools themselves [play a crucial role to the health of the surrounding ecosystems](https://dornsife.usc.edu/uscseagrant/2020/07/21/reflections-on-the-future-of-tidepools/). They act as a “kiddie pool” of sorts for young sea creatures, such as barnacles and plankton, that are not yet mature enough to survive on their own in open ocean. But because tide pools are such dynamically changing environments, they also contribute to the high adaptability and survivability of oceanic life. Tide pools also help facilitate the cycling and harmonious balance of nutrients between land and sea, in addition to acting as buffers for erosion.
 
 With [Earth Day](https://www.earthday.org/earth-day-2026/) approaching the following week, there was no better time to ponder the potential effects of climate change on these precious tide pools and their inhabitants. The answers I found were about as I expected, but still left me feeling nothing short of dismay. As global temperatures rise, the ocean will naturally become more acidic leading to [degradation of shells](https://science.oregonstate.edu/IMPACT/2016/05/study-shellfish-response-ocean-acidification), which means much weaker armor for creatures who need these shells to survive. We will also bear witness to forced mass migration of species in search of cooler waters, if not a complete loss of habitats themselves. [A study published in 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5805332/) investigated the effect of global warming and resulting increased water temperature on coastal organisms in both tropical and temperate climates. Their conclusion was that while climate acclimatization is more likely in temperate zones, tide pools will act as ecological traps in tropical area as climate change worsens. This will result in widespread species habitat loss, or [“coastal squeeze”](https://www.sciencedirect.com/science/article/abs/pii/S0964569113001786). Ultimately, natural selection will inevitably take over. 
 
